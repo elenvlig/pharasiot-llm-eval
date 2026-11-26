@@ -1,0 +1,41 @@
+sent_id	src	len	band	cband	cscore	register	depth	n_sub	n_conj	relcl	bdens	borrow	adp	pron	pron3	neg	postsubj	postobj	postadp	gendermis	text
+Fairytale1.7	Fairytale	11	medium	mid	4	narrative	4	0	0	0	high	2	2	0	0	0	0	0	1	1	Σωρεύτανε, αν Τζερετζή την εβίτζα, σου Καβάρη το κάτζι μπρο.
+Fairytale1.15	Fairytale	12	medium	complex	7	narrative	4	1	1	0	high	2	0	2	0	0	1	1	0	0	Κάτα ημέρα έρχονται οι τζυνη'οί τζαι μες σκοτώνουν τζάπου να μες εύρουν.
+Fairytale1.17	Fairytale	9	medium	mid	5	narrative	4	0	1	0	low	1	0	1	0	0	0	1	0	0	Τάημισα οι νομάτοι θέκνουν μέγκενε τζαι πιένουν μες αρά.
+Fairytale1.24	Fairytale	31	long	complex	8	direct	5	0	3	0	low	1	5	1	0	0	1	2	1	0	Χεμ ’αμναίνουμε την Άνοιξη τζαι το Μαθόπωρο τα χωράφα τουν, χεμ ταβρούμε το τουκάνι σ’ αώνι σ’ον τεμίση πέσου, χεμ κουβαλαίνουμε σου σειμού το τουφάνι ξύα στο ορμάνι.
+Fairytale1.34	Fairytale	6	medium	mid	5	direct	3	1	0	0	low	0	0	1	0	0	1	0	0	0	Με νανόστετε σοτίπος φταίνουν τα αούτζι;
+Fairytale1.35	Fairytale	33	long	complex	9	direct	7	0	2	0	high	5	0	3	0	0	0	6	0	0	Μεις, οι αωποί, κλέφτουμε τα ’ρνίθε τουν, τα ’ρκούδε αχτούνε τα μελίσα τουν τζαι τρων το μέλι, ο λύκος τρω τα πρόβατα τζαι τα γίδε, ο ασλάνος παρτσαλατίζει τα μουσκάρα τζαι τα γαϊρίδε.
+Fairytale1.37	Fairytale	28	long	mid	4	direct	4	0	0	0	high	5	7	2	0	0	0	0	1	0	Τούς ‘χα κετσιντήσετε σα ρουσία δεχούς σταύκο σο τουφάνι πέσου, δεχούς άσερο, δεχούς χορτάρι τζαι πασκά τουρλού ταγΐ το σειμό, δεχούς τ’ αφτέντη σας το σαγιά;»
+Fairytale2.2	Fairytale	22	long	complex	13	narrative	6	3	1	0	high	2	2	2	1	0	0	1	0	1	Πασλάτσαν να τζαναβαρίζουν, τους α 'ινεί να χωρίσουν το χαβλού τουν τζαι το τζυνή’ι τουν σο ρουσί τζαι σο ορμάνι.
+Fairytale2.8	Fairytale	11	medium	mid	5	direct	4	0	1	0	low	0	0	1	1	0	0	0	0	0	«Ο ασλάνος ένι βυνατό τζαναβάρι, με τ’ αχίλι του ένι λειψό.
+Fairytale2.14	Fairytale	12	medium	mid	5	narrative	4	0	1	0	high	2	0	1	1	0	0	2	0	0	Τε στέρου, τζας όρσανε τ’ αβτζιλίκι τουνε, το ‘ρκούδι ποσάλτσεν το μεντζιλίσι.
+Fairytale2.16	Fairytale	18	long	complex	10	narrative	6	2	0	0	low	1	2	1	1	0	0	1	1	1	Ο ασλάνος χολιέστην, σηκώθαν του γουργουρού του τα τσάρε, με ντράπη ν’ τα σπαράξει σο μεντζιλίσι πέσου.
+Fairytale2.24	Fairytale	11	medium	complex	6	direct	4	1	0	1	low	0	1	5	0	0	0	0	0	0	«Βάι, ποτς εν ατό του μας ηύρε σο τσουφάλι μας.
+Fairytale2.26	Fairytale	12	medium	mid	4	direct	4	0	0	0	high	2	2	3	0	0	1	0	0	0	Πα ποίκω γω δεχούς άντρα μο τα εννέ μαχσούλε μου, τα ’ρφανά;»
+Fairytale2.31	Fairytale	2	short	simple	2	narrative	2	0	0	0	high	2	0	0	0	0	0	0	0	0	Χορλατίζει σερμπέσα.
+Fairytale2.37	Fairytale	26	long	complex	10	narrative	6	2	0	1	high	2	4	3	1	1	2	1	1	0	Τζας γιαναστέσαν το σοιρίδι μο το γουβάλι σα κάκα πέσου, τα πεμεινά τζο πόρκαν να κρατήσουν το σολούχι τουν στη βρώμα του φερήγκην άνεμους.
+Fairytale2.39	Fairytale	10	medium	complex	8	narrative	5	1	1	1	low	0	0	1	0	0	0	0	0	0	Ο αωπός, του ήτουν ατζεί μεχτάρ τζαι τοκτόρ, πόμεινην λέικο.
+Fairytale2.41	Fairytale	6	medium	simple	3	narrative	3	0	0	0	low	1	1	1	1	0	0	0	0	0	Έγραψεν σο τεφτέρι του κι:
+Fairytale2.47	Fairytale	11	medium	mid	5	narrative	3	1	0	0	low	0	1	1	1	0	0	0	0	0	Το σχοιρίδι δέβην πάνου σον ασλάνο πιρ μου τα γουτσαχλατίσει!
+Fairytale3.20	Fairytale	4	short	simple	2	narrative	2	0	0	0	low	0	0	1	0	0	0	0	0	0	Γω είμαι άλεϊ φυακιάρ’.
+Fairytale3.24	Fairytale	27	long	complex	12	direct	6	2	2	0	high	4	0	4	0	0	0	2	0	0	«Ματέμ κι ‘ύρεψες να με ζαναχέπ’ πίσι λαχτόρι ραδέ, εμ μπρο αρέ να σε πνίξω, να σε παρτσαλατίσω τζαι τε στέρου να σε ποίκω α ζόρι φάεμα».
+Fairytale3.26	Fairytale	10	medium	complex	6	direct	4	1	0	0	low	0	1	2	0	1	0	2	0	0	«Γροίξα τα κι στα σέρα σου κατιέν τζο γλιτώνω.
+Fairytale3.28	Fairytale	30	long	complex	14	direct	6	4	0	0	low	1	3	3	0	1	0	6	0	0	Πιρ μη με φας, να γαπάς το Θεό σου, άφτσε με να βκώ ‘τζα σο δώμα πάνω ν’ αλήσω στερνά δύο τρία φορέδες, να πητάξω σελάμι σις χωρώτοι.
+Fairytale3.38	Fairytale	3	short	simple	2	narrative	2	0	0	0	low	0	0	0	0	0	0	1	0	0	Αωπός ενότουν πουσμάνι.
+Fairytale4.4	Fairytale	5	short	simple	3	narrative	3	0	0	0	low	0	0	0	0	1	0	0	0	0	Μην είσαι ζαπίτ’ς του Γενιτζερίουν;
+Fairytale5.18	Fairytale	23	long	complex	8	narrative	5	1	1	0	high	3	3	2	0	0	1	1	0	1	‘Σ τ’ εν ταρός ‘στέρου θωρεί ‘τι κι, γνέντα του ένι αν κάπνη τζαι απή τζει ήρτεν αν τσίκνα σο μυτήν του.
+Fairytale5.50	Fairytale	24	long	complex	14	narrative	7	2	3	0	high	2	3	2	0	0	1	3	1	0	Πήρεν, ‘ς ου να γρεπ, το τσίκκιν dου, γαλίτσεψεν τ΄άβγο του, πήεν σο γεθύρι, τζαι φύαξεν ατζεί σ΄ώστου να νάρτ΄ Αράπ.
+Fairytale5.67	Fairytale	24	long	complex	7	narrative	5	0	2	0	high	3	2	3	0	0	2	1	0	1	Τζαι 'σ 'τ εν κούτι στρέρου σα τα ξύπνησεν το παλικάρι, ήνοιξε τα φτάλμε του, τζ' ήρτε ο νους του σο τζουφάλιν του.
+Fairytale5.84	Fairytale	12	medium	mid	5	direct	5	0	0	0	low	1	2	0	0	0	0	0	0	0	Ση στράτα φοτές ‘υριζούτουν ήρτεν σ΄εν άβου γαλάς η ράστα.
+Fairytale5.98	Fairytale	26	long	mid	5	direct	5	0	0	0	high	3	4	4	0	0	1	1	0	1	«’Γω έχω αν Αράπ μο τα τρία τσουφάλε», είπεν τι το κορτζόκκο, «ατός μο τ’ άβγο του κάτα ημέρα ξειά στο γεφύρι σο ποτάμι.
+Fairytale6.9	Fairytale	3	short	simple	3	narrative	3	0	0	0	low	0	0	0	0	0	0	0	0	0	΄Υπνωσανε τα τρία.
+Fairytale6.12	Fairytale	4	short	mid	4	narrative	4	0	0	0	low	0	0	0	0	0	0	1	0	0	Σηκώθην, έκοψεν το ξύο.
+Fairytale6.19	Fairytale	5	short	simple	3	narrative	3	0	0	0	low	1	0	1	1	0	0	1	0	0	Ποίjεν dα α ζυ ρούχα.
+Fairytale6.20	Fairytale	3	short	simple	3	narrative	3	0	0	0	low	1	0	0	0	0	1	0	0	0	Ύπνωσεν ο τερζής.
+Fairytale6.36	Fairytale	9	medium	mid	5	direct	4	0	1	0	high	4	0	2	1	0	0	1	0	0	« Χαΐρ, ’γω πάλι δέβασά dα gουμουσόνα βρασάλε jαι αλτούνε.
+Fairytale6.41	Fairytale	3	short	simple	3	narrative	3	0	0	0	high	2	1	1	1	0	0	0	0	0	Μαρgάωσανε πενενdάβου τουνε.
+Fairytale6.51	Fairytale	6	medium	simple	3	narrative	3	0	0	0	low	1	0	2	1	0	0	0	0	0	Αdό ήdουνε το μονα η κόρη.
+Fairytale6.53	Fairytale	5	short	simple	3	narrative	3	0	0	0	high	2	0	1	1	0	1	0	0	0	Είπαν dι κι jαι jείνοι:
+Fairytale6.54	Fairytale	5	short	mid	5	direct	3	1	0	0	low	1	0	0	0	1	0	0	0	0	« Έ χοjά, δομαίνο μή ίνεσαι;»
+Fairytale6.59	Fairytale	5	short	simple	3	narrative	3	0	0	0	low	1	1	0	0	0	0	0	0	0	Ήρτανε ‘ς αν Dερβίσης ιράστα.
+Fairytale6.72	Fairytale	7	medium	mid	5	narrative	3	1	0	0	high	4	0	2	0	1	0	0	0	0	Τον çαρέν dου jο bόρκανε dα νάβρουνε.

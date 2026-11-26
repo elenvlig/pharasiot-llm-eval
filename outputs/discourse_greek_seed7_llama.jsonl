@@ -1,0 +1,15 @@
+{"item_id": "disc_01", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "α"}
+{"item_id": "disc_02", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "disc_03", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "α"}
+{"item_id": "disc_04", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "disc_05", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "disc_06", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "α"}
+{"item_id": "disc_07", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "disc_08", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "disc_09", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "disc_10", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "disc_11", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "disc_12", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "(β)", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "disc_13", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "Απάντηση: α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "disc_14", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "α"}
+{"item_id": "disc_15", "task": "discourse", "condition": "greek", "model": "llama", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "β"}

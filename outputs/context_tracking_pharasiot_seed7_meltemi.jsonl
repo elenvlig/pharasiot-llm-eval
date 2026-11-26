@@ -1,0 +1,15 @@
+{"item_id": "context_01", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "γ"}
+{"item_id": "context_02", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}
+{"item_id": "context_03", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "α"}
+{"item_id": "context_04", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "context_05", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "context_06", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "α"}
+{"item_id": "context_07", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "α"}
+{"item_id": "context_08", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "α"}
+{"item_id": "context_09", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "γ"}
+{"item_id": "context_10", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "context_11", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "context_12", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "context_13", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "γ"}
+{"item_id": "context_14", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "γ"}
+{"item_id": "context_15", "task": "context_tracking", "condition": "pharasiot", "model": "meltemi", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}

@@ -1,0 +1,79 @@
+task	condition	seed	model	n_items	n_correct	accuracy	chance	majority	beats_chance	beats_majority
+lexical_translation	pharasiot	42	krikri	40	18	0.45	0.25		True	False
+lexical_translation	pharasiot	7	krikri	40	20	0.5	0.25		True	False
+lexical_translation	pharasiot	42	meltemi	40	16	0.4	0.25		True	False
+lexical_translation	pharasiot	7	meltemi	40	14	0.35	0.25		True	False
+lexical_translation	pharasiot	42	llama	40	15	0.375	0.25		True	False
+lexical_translation	pharasiot	7	llama	40	15	0.375	0.25		True	False
+sentiment	pharasiot	42	krikri	44	22	0.5	0.3333333333333333	0.4318181818181818	True	True
+sentiment	pharasiot	7	krikri	44	25	0.5681818181818182	0.3333333333333333	0.4318181818181818	True	True
+sentiment	pharasiot	42	meltemi	44	18	0.4090909090909091	0.3333333333333333	0.4318181818181818	True	False
+sentiment	pharasiot	7	meltemi	44	16	0.36363636363636365	0.3333333333333333	0.4318181818181818	True	False
+sentiment	pharasiot	42	llama	44	16	0.36363636363636365	0.3333333333333333	0.4318181818181818	True	False
+sentiment	pharasiot	7	llama	44	20	0.45454545454545453	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	42	krikri	44	26	0.5909090909090909	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	7	krikri	44	28	0.6363636363636364	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	42	meltemi	44	25	0.5681818181818182	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	7	meltemi	44	26	0.5909090909090909	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	42	llama	44	26	0.5909090909090909	0.3333333333333333	0.4318181818181818	True	True
+sentiment	greek	7	llama	44	21	0.4772727272727273	0.3333333333333333	0.4318181818181818	True	True
+topic	pharasiot	42	krikri	40	18	0.45	0.25	0.3	True	True
+topic	pharasiot	7	krikri	40	16	0.4	0.25	0.3	True	True
+topic	pharasiot	42	meltemi	40	17	0.425	0.25	0.3	True	True
+topic	pharasiot	7	meltemi	40	21	0.525	0.25	0.3	True	True
+topic	pharasiot	42	llama	40	13	0.325	0.25	0.3	True	True
+topic	pharasiot	7	llama	40	5	0.125	0.25	0.3	False	False
+topic	greek	42	krikri	40	28	0.7	0.25	0.3	True	True
+topic	greek	7	krikri	40	27	0.675	0.25	0.3	True	True
+topic	greek	42	meltemi	40	28	0.7	0.25	0.3	True	True
+topic	greek	7	meltemi	40	31	0.775	0.25	0.3	True	True
+topic	greek	42	llama	40	16	0.4	0.25	0.3	True	True
+topic	greek	7	llama	40	10	0.25	0.25	0.3	False	False
+nli	pharasiot	42	krikri	40	26	0.65	0.25		True	False
+nli	pharasiot	7	krikri	40	29	0.725	0.25		True	False
+nli	pharasiot	42	meltemi	40	18	0.45	0.25		True	False
+nli	pharasiot	7	meltemi	40	22	0.55	0.25		True	False
+nli	pharasiot	42	llama	40	12	0.3	0.25		True	False
+nli	pharasiot	7	llama	40	14	0.35	0.25		True	False
+nli	greek	42	krikri	40	36	0.9	0.25		True	False
+nli	greek	7	krikri	40	36	0.9	0.25		True	False
+nli	greek	42	meltemi	40	30	0.75	0.25		True	False
+nli	greek	7	meltemi	40	31	0.775	0.25		True	False
+nli	greek	42	llama	40	21	0.525	0.25		True	False
+nli	greek	7	llama	40	23	0.575	0.25		True	False
+factual	pharasiot	42	krikri	15	11	0.7333333333333333	0.25		True	False
+factual	pharasiot	7	krikri	15	11	0.7333333333333333	0.25		True	False
+factual	pharasiot	42	meltemi	15	10	0.6666666666666666	0.25		True	False
+factual	pharasiot	7	meltemi	15	9	0.6	0.25		True	False
+factual	pharasiot	42	llama	15	7	0.4666666666666667	0.25		True	False
+factual	pharasiot	7	llama	15	6	0.4	0.25		True	False
+factual	greek	42	krikri	15	15	1.0	0.25		True	False
+factual	greek	7	krikri	15	15	1.0	0.25		True	False
+factual	greek	42	meltemi	15	14	0.9333333333333333	0.25		True	False
+factual	greek	7	meltemi	15	15	1.0	0.25		True	False
+factual	greek	42	llama	15	14	0.9333333333333333	0.25		True	False
+factual	greek	7	llama	15	13	0.8666666666666667	0.25		True	False
+context_tracking	pharasiot	42	krikri	15	11	0.7333333333333333	0.25		True	False
+context_tracking	pharasiot	7	krikri	15	7	0.4666666666666667	0.25		True	False
+context_tracking	pharasiot	42	meltemi	15	9	0.6	0.25		True	False
+context_tracking	pharasiot	7	meltemi	15	8	0.5333333333333333	0.25		True	False
+context_tracking	pharasiot	42	llama	15	4	0.26666666666666666	0.25		True	False
+context_tracking	pharasiot	7	llama	15	3	0.2	0.25		False	False
+context_tracking	greek	42	krikri	15	12	0.8	0.25		True	False
+context_tracking	greek	7	krikri	15	11	0.7333333333333333	0.25		True	False
+context_tracking	greek	42	meltemi	15	11	0.7333333333333333	0.25		True	False
+context_tracking	greek	7	meltemi	15	11	0.7333333333333333	0.25		True	False
+context_tracking	greek	42	llama	15	5	0.3333333333333333	0.25		True	False
+context_tracking	greek	7	llama	15	6	0.4	0.25		True	False
+discourse	pharasiot	42	krikri	15	8	0.5333333333333333	0.25		True	False
+discourse	pharasiot	7	krikri	15	11	0.7333333333333333	0.25		True	False
+discourse	pharasiot	42	meltemi	15	7	0.4666666666666667	0.25		True	False
+discourse	pharasiot	7	meltemi	15	7	0.4666666666666667	0.25		True	False
+discourse	pharasiot	42	llama	15	6	0.4	0.25		True	False
+discourse	pharasiot	7	llama	15	5	0.3333333333333333	0.25		True	False
+discourse	greek	42	krikri	15	12	0.8	0.25		True	False
+discourse	greek	7	krikri	15	10	0.6666666666666666	0.25		True	False
+discourse	greek	42	meltemi	15	12	0.8	0.25		True	False
+discourse	greek	7	meltemi	15	9	0.6	0.25		True	False
+discourse	greek	42	llama	15	7	0.4666666666666667	0.25		True	False
+discourse	greek	7	llama	15	5	0.3333333333333333	0.25		True	False

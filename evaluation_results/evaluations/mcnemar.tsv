@@ -1,0 +1,25 @@
+task	model	greek_only	pharasiot_only	discordant	p_value	verdict
+sentiment	krikri	14	7	21	0.18924713134765625	not significant
+sentiment	meltemi	22	5	27	0.0015137195587158203	significant
+sentiment	llama	19	8	27	0.052238985896110535	not significant
+sentiment	krikri+meltemi	36	12	48	0.0007172696733945829	significant
+topic	krikri	25	4	29	0.00010371580719947815	significant
+topic	meltemi	25	4	29	0.00010371580719947815	significant
+topic	llama	10	2	12	0.03857421875	significant
+topic	krikri+meltemi	50	8	58	1.5702617754687068e-08	significant
+nli	krikri	18	1	19	7.62939453125e-05	significant
+nli	meltemi	22	1	23	5.7220458984375e-06	significant
+nli	llama	20	2	22	0.00012111663818359375	significant
+nli	krikri+meltemi	40	2	42	4.1109160520136356e-10	significant
+factual	krikri	8	0	8	0.0078125	significant
+factual	meltemi	10	0	10	0.001953125	significant
+factual	llama	15	1	16	0.000518798828125	significant
+factual	krikri+meltemi	18	0	18	7.62939453125e-06	significant
+context_tracking	krikri	6	1	7	0.125	not significant
+context_tracking	meltemi	6	1	7	0.125	not significant
+context_tracking	llama	4	0	4	0.125	underpowered
+context_tracking	krikri+meltemi	12	2	14	0.012939453125	significant
+discourse	krikri	6	3	9	0.5078125	not significant
+discourse	meltemi	7	0	7	0.015625	significant
+discourse	llama	3	2	5	1.0	underpowered
+discourse	krikri+meltemi	13	3	16	0.021270751953125	significant

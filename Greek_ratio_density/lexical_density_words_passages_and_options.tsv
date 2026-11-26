@@ -1,0 +1,317 @@
+word_form	lemma	upos	n	shared	example_pharasiot	example_english	part
+ήρταν	έρχουμι	VERB	4	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+σ'	σε	ADP	4	skip	‘Ινεται τελέφι το δέρμα μας σ' η στράτα.	It melts our skin on the road.	passage
+Ερ	ερ	SCONJ	4	skip	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+κοντά	κοντά	ADP	4	skip	«Να υπάμε τζαι μεις σις χωρότοι μας κοντά.	"""Let also go close to our villagers."	passage
+Αdέ	αdο	PRON	4	no	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.	passage
+χωρότοι	χωρότ	NOUN	3	no	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+φσάχι	φσάχ	NOUN	3	no	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+βράδι	βράδι	NOUN	3	yes	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+τσάρι	τσάρι	NOUN	3	no	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+ψυσή	ψυσή	NOUN	3	yes	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.	passage
+αμ	α	DET	3	skip	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	In the old days it was four people.	passage
+ένα	ένας	DET	3	skip	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	There was a tailor and a jeweller, and a good man of God.	passage
+μερέ	μερά	NOUN	2	no	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+τζαναβάρα	jαναβάρι	NOUN	2	no	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+τ'	η	DET	2	skip	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+χωρού	χωρίο(ν)	NOUN	2	no	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+χαϊβάνα	χαϊβάν(ι)	NOUN	2	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+ρουσού	ρουσί	NOUN	2	no	Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.	Some other remaing mountain animals also came to the forest.	passage
+υπά	πηγαίνω	VERB	2	no	Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του.	The wild animals on the mountain, everyone to go to his cave.	passage
+πρέφτει	πρέπει	AUX	2	skip	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+τσουφαλάς	τσουφαλάς	NOUN	2	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+χαρτίο	χαρτί	NOUN	2	yes	∆ώτζεν το χαρτίο σο σοιρίδι τζαι χύτσεν ο αωπός σον ασλάνο κοντά.	The fox gave the paper to the pig and run close to the lion.	passage
+κουμάσι	κουμάσι	NOUN	2	yes	’Υρίστην το σοιρίδι σο κουμάσι, δώτζην το χαρτίο σ’η ’ναίκα του.	The pig returned home, gave the paper to his wife.	passage
+’ναίκα	γυναίκα	NOUN	2	yes	’Υρίστην το σοιρίδι σο κουμάσι, δώτζην το χαρτίο σ’η ’ναίκα του.	The pig returned home, gave the paper to his wife.	passage
+Χα	χα	AUX	2	skip	«Χα νάρτου».	I will come.	passage
+Πην	πηγαίνω	VERB	2	no	Πην το σοιρίδι σο κουμάσι, είπεν τι σ’η ’ναίκα του κι:	The pig went home and said to his wife:	passage
+σέρε	σέρι	NOUN	2	no	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+αωπό	απός	NOUN	2	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+Συ	εσύ	PRON	2		Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	"Who are you and with your ""missing"" mind, you become the boss of the house of hens and head of the of chickens"	passage
+τζουφάλε	τζουφάλι	NOUN	2	no	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+παλί	παλί	ADV	2	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+ά	α	ADP	2	skip	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+φα	τρώγω	VERB	2	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+δώjεν	δίνω	VERB	2	yes	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.	passage
+ήτουνε	είμαι	AUX	2	yes	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	In the old days it was four people.	passage
+κάτσανε	κάθομαι	VERB	1	yes	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+όινα	(όινα)	DET	1	skip	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+’ρουσού	ρουσί	NOUN	1	no	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+καπλάνι	qαπλάνος	NOUN	1	no	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+’ρκούδι	αρκούδι	NOUN	1	yes	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+’γρουκάτα	γρουκάτα	NOUN	1	no	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	They came, sat down at one aside the wild beasts of the mountain: the lion, the tiger, the bear, the wolf, the fox, the wildcat.	passage
+άβο	ἂβου	DET	1	skip	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+κάτσαν	κάθομαι	VERB	1	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+άβουγο	άβγου	NOUN	1	no	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+βουρτόνι	βουρdόνι	NOUN	1	no	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+γαϊρίδι	γαϊρίδι	NOUN	1	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+βόιδι	βόϊδ	NOUN	1	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+πρόβατο	πρόβατο	NOUN	1	yes	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	They came and sat down on the other side village animals: the horse, the mule, the donkey, the ox, the buffalo, the sheep, the pig.	passage
+ατόνε	ατό	DET	1	skip	Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.	Some other remaing mountain animals also came to the forest.	passage
+’πομεινά	πομεινό	ADJ	1	no	Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.	Some other remaing mountain animals also came to the forest.	passage
+χαϊβανόκκα	χαϊβαν(ι)	NOUN	1	yes	Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.	Some other remaing mountain animals also came to the forest.	passage
+Πουστιέσαν	πουστιέγω	VERB	1	no	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	Crouched bit further: the deer, the ferret, the rabbit.	passage
+παρέτζει	bαρεçεί	ADV	1	yes	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	Crouched bit further: the deer, the ferret, the rabbit.	passage
+ζαρκάδι	ζαρκάδι	NOUN	1	yes	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	Crouched bit further: the deer, the ferret, the rabbit.	passage
+πουρτσούχος	πουρτσούχος	NOUN	1	no	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	Crouched bit further: the deer, the ferret, the rabbit.	passage
+τζ’αγός	αγός	NOUN	1	yes	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	Crouched bit further: the deer, the ferret, the rabbit.	passage
+ουστουνέ	ουστουνέ	ADV	1	no	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	They also beat us with the stick, they embroider us with the bukendra.	passage
+κοπανίζουν	κοπανίζω	VERB	1	yes	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	They also beat us with the stick, they embroider us with the bukendra.	passage
+ραβdί	ραβdί	NOUN	1	yes	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	They also beat us with the stick, they embroider us with the bukendra.	passage
+τζεντάν	κεντώ/jeνdώ	VERB	1	no	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	They also beat us with the stick, they embroider us with the bukendra.	passage
+βουτζέντρι	βούκεντρον	NOUN	1	no	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	They also beat us with the stick, they embroider us with the bukendra.	passage
+φήνουν	(α)φήνω	VERB	1	yes	Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.	And later, some of us they leave us fasting in the deserts and some of us are slaughtered.	passage
+νηστικά	νηστικός	ADJ	1	yes	Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.	And later, some of us they leave us fasting in the deserts and some of us are slaughtered.	passage
+οράνα	οράνι	NOUN	1	no	Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.	And later, some of us they leave us fasting in the deserts and some of us are slaughtered.	passage
+φσάκνουν	σφάζω-φσάγνω	VERB	1	no	Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.	And later, some of us they leave us fasting in the deserts and some of us are slaughtered.	passage
+κρες	κρες	NOUN	1	yes	Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.	They eat our meat and with the skin they make shoes(tsarouchia).	passage
+πόστι	πόστι	NOUN	1	no	Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.	They eat our meat and with the skin they make shoes(tsarouchia).	passage
+τσαρούχα	çαρούχ	NOUN	1	yes	Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.	They eat our meat and with the skin they make shoes(tsarouchia).	passage
+‘Ινεται	γίνομαι	VERB	1	yes	‘Ινεται τελέφι το δέρμα μας σ' η στράτα.	It melts our skin on the road.	passage
+τελέφι	τελέφι	NOUN	1	no	‘Ινεται τελέφι το δέρμα μας σ' η στράτα.	It melts our skin on the road.	passage
+δέρμα	δέρμα	NOUN	1	yes	‘Ινεται τελέφι το δέρμα μας σ' η στράτα.	It melts our skin on the road.	passage
+χερκές	χερκές	PRON	1	no	Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του.	The wild animals on the mountain, everyone to go to his cave.	passage
+σπήλο	σπήλος	NOUN	1	no	Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του.	The wild animals on the mountain, everyone to go to his cave.	passage
+πασλατίσουμε	πασλατίσκην	VERB	1	no	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+χαρέτζα	χαρέτζα	ADV	1	no	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+μουχαρεπέ	μουχαρεπές	NOUN	1	no	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+τις	ο	DET	1	skip	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+πελάς	(πελάς)	NOUN	1	yes	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+νάρτει	έρχομαι	VERB	1	yes	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	"If we start a war with the villagers now trouble will come upon us."""	passage
+Είπανε	λέγω	VERB	1	yes	Είπανε τζαι του χωρού τα χαϊβάνα:	They animals of the village also said:	passage
+υπάμε	πηγαίνω	VERB	1	yes	«Να υπάμε τζαι μεις σις χωρότοι μας κοντά.	"""Let also go close to our villagers."	passage
+Ε	Ε	INTJ	1		«Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».	"""Comrades, first let's vote the leader out of the assembly."""	passage
+dόστοι	dόστη	NOUN	1	no	«Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».	"""Comrades, first let's vote the leader out of the assembly."""	passage
+βγκάλουμε	βγάζω	VERB	1	yes	«Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».	"""Comrades, first let's vote the leader out of the assembly."""	passage
+τσουφαλά	τσουφαλάς	NOUN	1	no	«Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».	"""Comrades, first let's vote the leader out of the assembly."""	passage
+χέμεν	χέμω	ADV	1	no	Είπεν τι κι τζ’ ο ασλάνος χέμεν:	Immediately the lion said:	passage
+πατισάχος	πατισάχος	NOUN	1	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+τσιπ	τσιπ	ADJ	1	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+ορμανού	ορμάνι	NOUN	1	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+των	το	DET	1	skip	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+τζαναβαρίουν	jαναβάρι	NOUN	1	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+’ινώ	γίνομαι	VERB	1	no	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	"""I am the king of all of the wild beasts of the mountain and the forest, I must become president in the meeting""."	passage
+∆ώτζεν	δίνω	VERB	1	yes	∆ώτζεν το χαρτίο σο σοιρίδι τζαι χύτσεν ο αωπός σον ασλάνο κοντά.	The fox gave the paper to the pig and run close to the lion.	passage
+χύτσεν	(χυτώ)	VERB	1	no	∆ώτζεν το χαρτίο σο σοιρίδι τζαι χύτσεν ο αωπός σον ασλάνο κοντά.	The fox gave the paper to the pig and run close to the lion.	passage
+’Υρίστην	γυρίζω	VERB	1	yes	’Υρίστην το σοιρίδι σο κουμάσι, δώτζην το χαρτίο σ’η ’ναίκα του.	The pig returned home, gave the paper to his wife.	passage
+δώτζην	δίνω	VERB	1	yes	’Υρίστην το σοιρίδι σο κουμάσι, δώτζην το χαρτίο σ’η ’ναίκα του.	The pig returned home, gave the paper to his wife.	passage
+σκρόφα	σκρόφα	NOUN	1	yes	Χάρην η σκρόφα.	The wife was happy.	passage
+Πέττασαν	πετάω	VERB	1	yes	Πέττασαν στη χαρά τουν τα σοιριδόκα.	The pigglets were dancing from happiness.	passage
+χαρά	χαρά	NOUN	1	yes	Πέττασαν στη χαρά τουν τα σοιριδόκα.	The pigglets were dancing from happiness.	passage
+σοιριδόκα	χοιρίδι(ον)	NOUN	1	no	Πέττασαν στη χαρά τουν τα σοιριδόκα.	The pigglets were dancing from happiness.	passage
+νάρτου	έρχομαι	VERB	1	yes	«Χα νάρτου».	I will come.	passage
+εβή	αυγή	NOUN	1	no	«Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».	Tomorrow I will go fight the lion at the Kavari rock.	passage
+υπάω	πηγαίνω	VERB	1	yes	«Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».	Tomorrow I will go fight the lion at the Kavari rock.	passage
+μετρηθώ	μετράω	VERB	1	yes	«Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».	Tomorrow I will go fight the lion at the Kavari rock.	passage
+Απιδέ	απιδού	ADV	1	yes	«Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.	"""From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster."	passage
+νάχω	έχω	VERB	1	yes	«Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.	"""From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster."	passage
+αβούτζι	αβούτζι	ADV	1	no	«Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.	"""From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster."	passage
+ζαναχεύει	ζαναχέπω	VERB	1	no	«Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.	"""From now on, I should have my mind in my head, so I won't be mocked by a dumb, dirty rooster."	passage
+κέσκε	keske	PART	1	skip	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+ν	να	AUX	1	skip	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+φάω	τρώγω	VERB	1	yes	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+τσας	τσας	ADV	1	no	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+είχα	έχω	VERB	1	yes	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	"He was in my hands, I wish I could eat him when I had him in my hands""."	passage
+λαχτορού	λαχτόρι	NOUN	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+λάληλα	(λάληλα)	NOUN	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+ξύπνησαν	ξυπνώ	VERB	1	yes	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+πιέσαν	πιάνω	VERB	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+κιορ	κιορ	ADJ	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+κόνσαν	κολώ	VERB	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+dερέ	dere	NOUN	1	no	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	The crowing of the rooster woke up the villagers, they came, caught the blind fox, threw it into the stream.	passage
+τίς	τίς	PRON	1	no	Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	"Who are you and with your ""missing"" mind, you become the boss of the house of hens and head of the of chickens"	passage
+κουμασού	κουμάσι	NOUN	1	yes	Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	"Who are you and with your ""missing"" mind, you become the boss of the house of hens and head of the of chickens"	passage
+αφτέν	αυθέντης	NOUN	1	no	Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	"Who are you and with your ""missing"" mind, you become the boss of the house of hens and head of the of chickens"	passage
+'ρνιθίουν	ρνίθι	NOUN	1	yes	Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	"Who are you and with your ""missing"" mind, you become the boss of the house of hens and head of the of chickens"	passage
+Πέττασεν	πετώ	VERB	1	yes	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+σο	σε	ADP	1	skip	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+πανου	πάνου	ADP	1	skip	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+πίεσεν	πιένω	VERB	1	no	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+γουργούρι	γουργούρι	NOUN	1	no	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+ντα	να	SCONJ	1	skip	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+πνίξει	πνίγω	VERB	1	yes	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+τεϊ	το	PRON	1	no	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	The fox jumped on the rooster and grabbed him by the throat to choke him.	passage
+Είδεν	θεωρώ	VERB	1	yes	Είδεν το λαχτόρι κι πνίγεται.	The rooster saw that he was drowning	passage
+πνίγεται	πνίγω	VERB	1	yes	Είδεν το λαχτόρι κι πνίγεται.	The rooster saw that he was drowning	passage
+Νανόστε	νανούμαι	VERB	1	no	Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.	he thought of finding a trick to trick the fox.	passage
+νάβρει	βρίσκω	VERB	1	yes	Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.	he thought of finding a trick to trick the fox.	passage
+δεβοσύνη	δεβοσύνη	NOUN	1	no	Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.	he thought of finding a trick to trick the fox.	passage
+κομπώσει	(κομώνω)	VERB	1	no	Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.	he thought of finding a trick to trick the fox.	passage
+τσιράς	τσιρίζω	VERB	1	no	Τζαι τσιράς νυέχτα τζαι ημέρα;	And you yell night and day?	passage
+νυέχτα	νύχτα	NOUN	1	yes	Τζαι τσιράς νυέχτα τζαι ημέρα;	And you yell night and day?	passage
+αλείς	λαλώ	VERB	1	no	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	"And you speak like a bey without a mother and sisters!"""	passage
+αντί	αντί	SCONJ	1	skip	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	"And you speak like a bey without a mother and sisters!"""	passage
+πέγος	πέγος	NOUN	1	no	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	"And you speak like a bey without a mother and sisters!"""	passage
+μάνα	μάνα	NOUN	1	yes	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	"And you speak like a bey without a mother and sisters!"""	passage
+‘δελφές	ἀδελφή	NOUN	1	yes	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	"And you speak like a bey without a mother and sisters!"""	passage
+δώτζεν	δίνω	VERB	1	yes	Το λαχτόρι πάλι δώτζεν τζογάπην τζ’ είπεν ‘τι:	The rooster gave an answer and said:	passage
+τζογάπην	(τζογάπη)	NOUN	1	no	Το λαχτόρι πάλι δώτζεν τζογάπην τζ’ είπεν ‘τι:	The rooster gave an answer and said:	passage
+Ούμα	Ούμα	PART	1	skip	«Ούμα είμαι!»	«Yes I am!»	passage
+΄υρέφ	γυρεύω	VERB	1	yes	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+ζήσεις	ζώ	VERB	1	yes	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+δόσ’	δίνω	VERB	1	yes	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+μία	μία	NUM	1	yes	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+κρεμήσ’	κρημνίζω	VERB	1	yes	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+γαλιτζέψεις	(γαλιτσεύω)	VERB	1	no	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	If you wish to live, you have to hit him in his two heads, throw him in the river and ride his horse.	passage
+πασαρέψεις	(πασαρεύω)	VERB	1	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+ναύρει	βρίσκω	VERB	1	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+σεν΄	εσύ	PRON	1	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+μέν	εγώ	PRON	1	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+πάλ΄	παλί	ADV	1	yes	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	"If you do not manage to do it, and he comes to find you, he will kill you, he will kill me""."	passage
+πίρ	πίρ	ADV	1	no	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+μπει	μπαίνω	VERB	1	yes	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+τάνισεν	_	VERB	1	no	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+σεμάδεψεν	σεμαδεύω	VERB	1	yes	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+δότζεν	δίνω	VERB	1	yes	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+κρέμσην	κρημνίζω	VERB	1	yes	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	And before he went into the river, the boy raised his bow, took aim and shot him on his two heads, throwing him in the river.	passage
+άβγ΄	άβγο	NOUN	1	no	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+ατότε	ατότε	ADV	1	yes	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+έβκην	βγαίνω	VERB	1	yes	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+ουρανό	ουρανός	NOUN	1	yes	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+κατέβην	κατεβαίνω	VERB	1	yes	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+κόσμον	κόσμος	NOUN	1	yes	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+λιέγωσεν	λιεγώνω	VERB	1	no	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	The horse then got up, flew into the sky, then it came down to earth, got tired and said to the boy:	passage
+Έπαρ	παίρνω	VERB	1	yes	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+΄ς	ς	ADP	1	skip	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+μ΄	εγώ	PRON	1	yes	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+΄ν	αν	DET	1	skip	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+ώρα	ώρα	NOUN	1	yes	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+’υρέπ	γυρεύω	VERB	1	yes	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+τσούσ΄	(τσιμπώ)	VERB	1	no	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	"""Take a hair from my tail, and whenever you need me, pinch it and I will be close to you."""	passage
+τάβρισεν	τραβώ	VERB	1	no	Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έμπην σ' η στράτα να υπά σο κορίτζιν κοντά.	And the boy pulled a hair from the tail, mounted his horse, and made his way to the girl.	passage
+γαλίτζεψεν	(γαλιτσεύω)	VERB	1	no	Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έμπην σ' η στράτα να υπά σο κορίτζιν κοντά.	And the boy pulled a hair from the tail, mounted his horse, and made his way to the girl.	passage
+έμπην	μπαίνω	VERB	1	yes	Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έμπην σ' η στράτα να υπά σο κορίτζιν κοντά.	And the boy pulled a hair from the tail, mounted his horse, and made his way to the girl.	passage
+κορίτζιν	κορίτζι	NOUN	1	yes	Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έμπην σ' η στράτα να υπά σο κορίτζιν κοντά.	And the boy pulled a hair from the tail, mounted his horse, and made his way to the girl.	passage
+Για	για	PART	1	skip	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+'υριζούτουν	γυρίζω	VERB	1	yes	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+μα	μα	PART	1	skip	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+στάθη	στέκω	VERB	1	yes	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+πήε	πηγαίνω	VERB	1	yes	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+κορίτσι	κορίτσι	NOUN	1	yes	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	However, whilst he was turning on the road, he found himself in front of another castle, but he did not stop, he passed by and went to the girl.	passage
+Τάβρησεν	τραβώ	VERB	1	no	Τάβρησεν στο βράδι του αν τσάρι, πήρεν το κορτζόκκο σ' αβγο του πάνω τζαι πην σα πρωτινά τα κορτζόκκα.	He pulled a hair from it's tail, took the girl on his horse and went to the first girls.	passage
+αβγο	άβγο	NOUN	1	no	Τάβρησεν στο βράδι του αν τσάρι, πήρεν το κορτζόκκο σ' αβγο του πάνω τζαι πην σα πρωτινά τα κορτζόκκα.	He pulled a hair from it's tail, took the girl on his horse and went to the first girls.	passage
+πρωτινά	πρωτινό	NUM	1	yes	Τάβρησεν στο βράδι του αν τσάρι, πήρεν το κορτζόκκο σ' αβγο του πάνω τζαι πην σα πρωτινά τα κορτζόκκα.	He pulled a hair from it's tail, took the girl on his horse and went to the first girls.	passage
+κορτζόκκα	κορdζόκκο	NOUN	1	yes	Τάβρησεν στο βράδι του αν τσάρι, πήρεν το κορτζόκκο σ' αβγο του πάνω τζαι πην σα πρωτινά τα κορτζόκκα.	He pulled a hair from it's tail, took the girl on his horse and went to the first girls.	passage
+Τσούριξεν	_	VERB	1	no	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	He burned the hairs that he got from the first horse and the second horse and the third horse.	passage
+πήρην	παίρνω	VERB	1	yes	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	He burned the hairs that he got from the first horse and the second horse and the third horse.	passage
+πρωτινό	πρωτινό	NUM	1	yes	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	He burned the hairs that he got from the first horse and the second horse and the third horse.	passage
+δεύτερο	δεύτερο	NUM	1	yes	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	He burned the hairs that he got from the first horse and the second horse and the third horse.	passage
+τρίτο	τρίτο	NUM	1	yes	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	He burned the hairs that he got from the first horse and the second horse and the third horse.	passage
+άβγα	άβγο	NOUN	1	no	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	The three horses came, the girls rode them, he tooke them and went to the well.	passage
+γαλίτσεψαν	γαλιτσεύω	VERB	1	no	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	The three horses came, the girls rode them, he tooke them and went to the well.	passage
+κορτζόκα	κορdζόκκο	NOUN	1	yes	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	The three horses came, the girls rode them, he tooke them and went to the well.	passage
+πηάγαν	πηγαίνω	VERB	1	yes	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	The three horses came, the girls rode them, he tooke them and went to the well.	passage
+πεγάιδι	πηγάδι	NOUN	1	yes	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	The three horses came, the girls rode them, he tooke them and went to the well.	passage
+Ηύρεν	ευρίσκω	VERB	1	yes	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+δέλφα	δέλφι	NOUN	1	yes	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+δέβασαν	διαβιβάζω	VERB	1	no	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+αλτουνώνα	altan	ADJ	1	no	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+λαχτυλίδα	δαχτυλίδι	NOUN	1	yes	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+ων	το	DET	1	skip	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+κοριτσών	κορίτσι	NOUN	1	yes	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+σεμαδεύταν	σημαδεύω	VERB	1	yes	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	He found his brothers, they put on gold rings on the girls hands they engaged.	passage
+Αdε	αdο	PRON	1	no	« Αdε ποίκα τα γω.	""" I made this (girl)."	passage
+ποίκα	ποιώ	VERB	1	no	« Αdε ποίκα τα γω.	""" I made this (girl)."	passage
+φόρεσέν	φορώ	VERB	1	yes	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.	passage
+δέβασέν	δεβάζω	VERB	1	no	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	This man dressed her with clothes, this man again put upon her bracelets, and this man gave her a soul.	passage
+Σεις	εγώ	PRON	1	yes	« Σεις πο λέτε;	""" What are you saying?"	passage
+πο	πο	PRON	1	no	« Σεις πο λέτε;	""" What are you saying?"	passage
+λέτε	λέγω	VERB	1	yes	« Σεις πο λέτε;	""" What are you saying?"	passage
+πώτο	πρώτο	ADJ	1	yes	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	In the old days it was four people.	passage
+ζαμάνι	ζαμάν(ι)	NOUN	1	no	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	In the old days it was four people.	passage
+τέσσερα	τέσερα	NUM	1	yes	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	In the old days it was four people.	passage
+qουγιουμτζής	qουγιουμjης	NOUN	1	no	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	There was a tailor and a jeweller, and a good man of God.	passage
+καό	κα(λ)ός	ADJ	1	yes	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	There was a tailor and a jeweller, and a good man of God.	passage
+Θεού	Θεός	NOUN	1	yes	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	There was a tailor and a jeweller, and a good man of God.	passage
+νομάτ	νομάτης	NOUN	1	no	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	There was a tailor and a jeweller, and a good man of God.	passage
+Πηάγανε	πηγαίνω	VERB	1	yes	Πηάγανε ς’ αν ορμάνι.	They went to a forest.	passage
+ς’	σε	ADP	1	skip	Πηάγανε ς’ αν ορμάνι.	They went to a forest.	passage
+Αjέ	αjέ	ADV	1	no	Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.	In that forest there were many wolves.	passage
+ήσανdαι	είμαι	AUX	1	yes	Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.	In that forest there were many wolves.	passage
+πουά	πολύς	ADJ	1	yes	Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.	In that forest there were many wolves.	passage
+λύçοι	λύκος(λύgος)	NOUN	1	yes	Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.	In that forest there were many wolves.	passage
+Ήγρεψέν	αγροικώ	VERB	1	no	Ήγρεψέν dα κι έν’ α σουράτι.	He saw that it is an image.	passage
+έν’	είμαι	AUX	1	no	Ήγρεψέν dα κι έν’ α σουράτι.	He saw that it is an image.	passage
+σουράτι	σουράτι	NOUN	1	no	Ήγρεψέν dα κι έν’ α σουράτι.	He saw that it is an image.	passage
+Αλλάχ	Αλλάχ	X	1	yes	« Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή».	""" Good and Mary, give to this girl a soul""."	passage
+Παναγία	Παναγία	PROPN	1	yes	« Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή».	""" Good and Mary, give to this girl a soul""."	passage
+κορίdζι	κορίτσι,κορίdζι	NOUN	1	yes	« Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή».	""" Good and Mary, give to this girl a soul""."	passage
+δος	δίνω	VERB	1	yes	« Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή».	""" Good and Mary, give to this girl a soul""."	passage
+Θεός	Θεός	NOUN	1	yes	Δώjεν dα ο Θεός αμ ψυσή.	God gave it life.	passage
+κετσίμι	κετσίμι(geçim)	NOUN	4	no	«Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	“This life of ours, life is not.	wrong option
+τίπκε	τίπκε	ADJ	3	no	Ήγρεψεν dι κι ένι τίπκε νομάτ.	He saw that it is exactly like human being.	wrong option
+Ό,τι	Ότι	PRON	3	yes	«Ό,τι τζαι να με ειπείς ‘πέ με!	"""Αnything you tell me, you tell me!"	wrong option
+ειπείς	λαλώ	VERB	3	yes	«Ό,τι τζαι να με ειπείς ‘πέ με!	"""Αnything you tell me, you tell me!"	wrong option
+‘πέ	λαλώ	VERB	3	yes	«Ό,τι τζαι να με ειπείς ‘πέ με!	"""Αnything you tell me, you tell me!"	wrong option
+πουλπούλι	πουλπούλι	NOUN	3	no	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	The man released the nightingale and it flew onto a high branch.	wrong option
+ατέ	ατό	PRON	3	no	Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;	What is that hood on your head?	wrong option
+Πολύν	πολύ	ADV	2	yes	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	He walked a lot, he walked a little, he arrived in front of a castle!	wrong option
+παρπάτσεν	περιπατώ	VERB	2	no	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	He walked a lot, he walked a little, he arrived in front of a castle!	wrong option
+λαΐκον	ολίγος	ADV	2	no	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	He walked a lot, he walked a little, he arrived in front of a castle!	wrong option
+παρ-πάτσεν	περιπατώ	VERB	2	no	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	He walked a lot, he walked a little, he arrived in front of a castle!	wrong option
+‘μπρο	μπρο	ADV	2	no	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	He walked a lot, he walked a little, he arrived in front of a castle!	wrong option
+Ήγρεψεν	αγροικώ	VERB	2	no	Ήγρεψεν dι κι ένι τίπκε νομάτ.	He saw that it is exactly like human being.	wrong option
+φήτζεν	αφήνω	VERB	2	yes	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	The man released the nightingale and it flew onto a high branch.	wrong option
+τζ΄	jαι	CCONJ	2	skip	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	The man released the nightingale and it flew onto a high branch.	wrong option
+ψεό	υψηλός	ADJ	2	no	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	The man released the nightingale and it flew onto a high branch.	wrong option
+τάλι	(χαλί)	NOUN	2	no	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	The man released the nightingale and it flew onto a high branch.	wrong option
+Πώτς	πώτς	PRON	2	yes	Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;	What is that hood on your head?	wrong option
+κουκούλι	κουκούλι	NOUN	2	yes	Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;	What is that hood on your head?	wrong option
+τζουφάλι	τζουφάλι	NOUN	2	no	Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;	What is that hood on your head?	wrong option
+μέτρο	(μέτρο)	PRON	2	no	«Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	“This life of ours, life is not.	wrong option
+τζό	τζο	PART	2	skip	«Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	“This life of ours, life is not.	wrong option
+‘νι	είμαι	AUX	2	skip	«Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	“This life of ours, life is not.	wrong option
+τελλάλ	τελλάλ	NOUN	2	yes	Συ τελλάλ είσαι τζαι ‘ξωματικός;	Are you both a preacher and an officer?	wrong option
+‘ξωματικός	(αξωματικός)	NOUN	2	yes	Συ τελλάλ είσαι τζαι ‘ξωματικός;	Are you both a preacher and an officer?	wrong option
+'ρνιθού	ρνίθι	NOUN	2	yes	«Ε 'ρνιθού κλέφτη.	Eh, thief of hens	wrong option
+κλέφτη	κλέφτης	NOUN	2	yes	«Ε 'ρνιθού κλέφτη.	Eh, thief of hens	wrong option
+πώτ’ς	(πώτ’ς)	PRON	2	yes	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+αβγάτ’ς	(αβγάτης)	NOUN	2	no	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+φοραίνεις	φορώ	VERB	2	yes	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+τζισμέδε	(τζισμάς)	NOUN	2	no	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+αβγάτη	(αβγάτης)	NOUN	2	no	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+ποδάρε	ποδάρι	NOUN	2	yes	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	"""Hey, rooster, what are you and like a (bey) -knight, do you also wear knight's spurs on your feet?"	wrong option
+μυτί	μύτη	NOUN	2	yes	Πιέσην το μυτί του, έθιτζιν τα κοζλούχα σα φτάλμε του.	It closed its nose, put on its glasses.	wrong option
+Εδώ	εδώ	ADV	2	yes	Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».	"Come with me to serge the henhouses of the village"""	wrong option
+φαν	φαν	VERB	2	yes	Α μας φαν οι λύτζοι.»	The wolves will eat us	wrong option
+λύτζοι	λύκος(λύgoσ)	NOUN	2	yes	Α μας φαν οι λύτζοι.»	The wolves will eat us	wrong option
+παρτσαλατίσει	παρτσαλατίζω	VERB	1	no	Την εβίτζα ο ασλάνος ’α παρτσαλατίσει τον άντρα μου.	The lion at dawn will tear my husband apart.	wrong option
+Γαλίτζεψαν	(γαλιτσεύω)	VERB	1	no	Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.	They mounted their horses and went out into the road.	wrong option
+έβκαν	βγαίνω	VERB	1	yes	Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.	They mounted their horses and went out into the road.	wrong option
+Ήφαρέν	φέρνω	VERB	1	yes	Ήφαρέν dα, ποίτζεν dα α νομάτ, τίπκε νομάτ.	He brought it, he made it into a human being,exactly a human being.	wrong option
+ποίτζεν	ποιώ	VERB	1	no	Ήφαρέν dα, ποίτζεν dα α νομάτ, τίπκε νομάτ.	He brought it, he made it into a human being,exactly a human being.	wrong option
+ποίτζετε	ποιώ	VERB	1	no	Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;	You again, the animals of the village, what will you do without the crib your master's?	wrong option
+παχνή	(παχνή)	NOUN	1	yes	Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;	You again, the animals of the village, what will you do without the crib your master's?	wrong option
+αυτέdη	αφένdης-αυθέντης	NOUN	1	yes	Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;	You again, the animals of the village, what will you do without the crib your master's?	wrong option
+j'	jαι	CCONJ	1	skip	Ύπνωσεν j' ο κουγιουμτζής.	And the jeweller slept.	wrong option
+κουγιουμτζής	qουγιουμjης	NOUN	1	no	Ύπνωσεν j' ο κουγιουμτζής.	And the jeweller slept.	wrong option
+ενόσανdαι	γίνομαι	VERB	1	no	Σο ενόσανdαι πένdε πίλενε.	They became five after this.	wrong option
+πένdε	πένdε	NUM	1	yes	Σο ενόσανdαι πένdε πίλενε.	They became five after this.	wrong option
+πίλενε	πίλενε	ADV	1	no	Σο ενόσανdαι πένdε πίλενε.	They became five after this.	wrong option
+τσαι	jαι	CCONJ	1	skip	Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.	Humans kill wild animals of the mountain and slaughter the animals.	wrong option
+φσάζουν	σφάζω-φσάζω	VERB	1	no	Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.	Humans kill wild animals of the mountain and slaughter the animals.	wrong option
+πάρω	παίρνω	VERB	1	yes	« Χαΐρ, αν dα πάρω γω.	""" No, I'll take her."	wrong option
+σωρευτούμε	σωρόβω	VERB	1	yes	«Να σωρευτούμε α ημέρα ‘ς α μεντζιλίσι».	""" Let us gather one day in a meeting"""	wrong option
+άβγον	άβγο	NOUN	1	no	Τζαι θωρεί ‘τι κι ήρτεν Αράπ σ΄ άβγον πάνου.	And he sees that the man came on the horse.	wrong option
+Φρουκάλ’	φροκαλώ	VERB	1	no	Φρουκάλ’ τα μο τον τζαλούς».	"Sweep it with the broom""."	wrong option
+τζαλούς	(τζαλούς)	NOUN	1	no	Φρουκάλ’ τα μο τον τζαλούς».	"Sweep it with the broom""."	wrong option
+Πιέσην	πιέζω	VERB	1	yes	Πιέσην το μυτί του, έθιτζιν τα κοζλούχα σα φτάλμε του.	It closed its nose, put on its glasses.	wrong option
+έθιτζιν	θέκνω	VERB	1	no	Πιέσην το μυτί του, έθιτζιν τα κοζλούχα σα φτάλμε του.	It closed its nose, put on its glasses.	wrong option
+κοζλούχα	gözlük	NOUN	1	no	Πιέσην το μυτί του, έθιτζιν τα κοζλούχα σα φτάλμε του.	It closed its nose, put on its glasses.	wrong option
+θέκ	θέκνω	VERB	1	no	«Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».	"""If you imprison me,"" said the nightingale, ""I will never sing."""	wrong option
+χαπίσι	χαπίσι	NOUN	1	no	«Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».	"""If you imprison me,"" said the nightingale, ""I will never sing."""	wrong option
+γάτιεν	γάτιεν	ADV	1	no	«Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».	"""If you imprison me,"" said the nightingale, ""I will never sing."""	wrong option
+τραγωδώ	τραγουδώ	VERB	1	yes	«Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».	"""If you imprison me,"" said the nightingale, ""I will never sing."""	wrong option
+δεβαίγκε	διαβαίνω	VERB	1	no	Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.	The pig, as he passed in front of the lion, turned his back and farted against his nose.	wrong option
+υρίστη	γυρίζω	VERB	1	yes	Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.	The pig, as he passed in front of the lion, turned his back and farted against his nose.	wrong option
+κων	κώλος	NOUN	1	no	Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.	The pig, as he passed in front of the lion, turned his back and farted against his nose.	wrong option
+έκκουασεν	κλάνω	VERB	1	no	Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.	The pig, as he passed in front of the lion, turned his back and farted against his nose.	wrong option
+ντάμα	(ντάμα)	NOUN	1	yes	Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».	"Come with me to serge the henhouses of the village"""	wrong option
+σεριανείς	(σεριανίζω)	VERB	1	yes	Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».	"Come with me to serge the henhouses of the village"""	wrong option
+κουμάσα	κουμάσι	NOUN	1	yes	Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».	"Come with me to serge the henhouses of the village"""	wrong option
+κρατεί	κρατώ	VERB	1	yes	«Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».	If you have the guts, come tomorrow to the Kavari rock to fight.	wrong option
+κω	κω	NOUN	1	no	«Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».	If you have the guts, come tomorrow to the Kavari rock to fight.	wrong option
+αδέ	αδέ	ADV	1	no	«Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».	If you have the guts, come tomorrow to the Kavari rock to fight.	wrong option
+μετρηθούμε	_	VERB	1	yes	«Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».	If you have the guts, come tomorrow to the Kavari rock to fight.	wrong option
+Κάτζιψαν	κατζεύω	VERB	1	no	Κάτζιψαν τζαι του χωρού τα χαϊβάνα.	The animals of the village also spoke.	wrong option
+μόνα	μόνα	PRON	1	yes	«Ατέ το κουμάσι εν το μόνα.	This house of hens if mine.	wrong option

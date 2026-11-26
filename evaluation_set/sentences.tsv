@@ -1,0 +1,351 @@
+sent_id	src	len	band	borrow	adp	propn	pron	pron3	neg	postsubj	postobj	postadp	gendermis	depth	n_sub	n_conj	relcl	cscore	register	is_direct	text	cband
+Fairytale1.0Title	Fairytale	4	short	2	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Των τζαναβαρίων το μεντζιλίσι.	simple
+Fairytale1.1	Fairytale	4	short	2	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Σηκώθην τζαι πα σηκώθη.	mid
+Fairytale1.2	Fairytale	10	medium	1	1	0	0	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Σα μπρο τον ταρό, του ρουσού τα τζναβάρα νανόστανε κι:	mid
+Fairytale1.3	Fairytale	7	medium	1	1	0	0	0	0	0	0	0	0	3	0	0	0	3	direct	1	«Να σωρευτούμε α ημέρα ‘ς α μεντζιλίσι».	simple
+Fairytale1.4	Fairytale	3	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι:	simple
+Fairytale1.5	Fairytale	9	medium	1	1	0	1	0	0	0	1	0	0	5	1	0	0	7	direct	1	«πα ποίκουμε να γλιτώσουμε στου νοματίουν το τζυνή’ι».	complex
+Fairytale1.6	Fairytale	16	long	6	1	0	2	0	0	1	2	0	0	4	1	0	0	6	narrative	0	Στρίγξαν τζαι του χωρού τα χαϊβάνα να ειπούν τζαι τζείνα το κετσίμιν dουν μο τις χωρώτοι.	complex
+Fairytale1.7	Fairytale	11	medium	2	2	1	0	0	0	0	0	1	1	4	0	0	0	4	narrative	0	Σωρεύτανε, αν Τζερετζή την εβίτζα, σου Καβάρη το κάτζι μπρο.	mid
+Fairytale1.8	Fairytale	22	long	5	1	0	0	0	0	1	0	0	0	6	0	5	0	11	narrative	0	Ήρτανε, κάτσανε ‘ς όινα τη μερέ του ’ρουσού τα τζαναβάρα: ο ασλάνος, το καπλάνι, το ’ρκούδι, ο λύκος, ο αωπός, η ’γρουκάτα.	complex
+Fairytale1.9	Fairytale	25	long	1	0	0	0	0	0	1	0	0	0	5	0	7	0	12	narrative	0	Στ' άβο τη μερέ ήρταν κάτσαν του χωρού τα χαϊβάνα: τ’ άβουγο, το βουρτόνι, το γαϊρίδι, το βόιδι, το γουβάλι, το πρόβατο, το σοιρίδι.	complex
+Fairytale1.10	Fairytale	12	medium	1	1	0	0	0	0	1	0	0	0	4	0	0	0	4	narrative	0	Ήρταν τζαι στο ορμάνι ατόνε τα ’πομεινά του ρουσού τα χαϊβανόκκα.	mid
+Fairytale1.11	Fairytale	7	medium	1	0	0	0	0	0	0	0	0	0	4	0	2	0	6	narrative	0	Πουστιέσαν παρέτζει: το ζαρκάδι, ο πουρτσούχος, τζ’αγός.	complex
+Fairytale1.12	Fairytale	10	medium	2	1	0	1	0	0	0	1	0	0	4	0	0	0	4	narrative	0	Σο μεντζιλίσι τα τζαναβάρα, έβγκαλαν τσουφαλάς τουνε τον αωπό.	mid
+Fairytale1.13	Fairytale	9	medium	3	1	0	1	0	0	1	0	0	0	4	0	0	0	4	narrative	0	Είπαν dι κι πενεντάβου τουνε τα δρα τα τζαναβάρα:	mid
+Fairytale1.14	Fairytale	8	medium	2	0	0	1	0	1	0	0	0	0	4	0	0	0	4	direct	1	«Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	mid
+Fairytale1.15	Fairytale	12	medium	2	0	0	2	0	0	1	1	0	0	4	1	1	0	7	narrative	0	Κάτα ημέρα έρχονται οι τζυνη'οί τζαι μες σκοτώνουν τζάπου να μες εύρουν.	complex
+Fairytale1.16	Fairytale	11	medium	1	2	0	2	0	0	0	0	0	0	4	0	1	0	5	narrative	0	Μες συραίνουν μο τον τσιφτέ τζαι μες καρφώνουν μο το τσίκκι.	mid
+Fairytale1.17	Fairytale	9	medium	1	0	0	1	0	0	0	1	0	0	4	0	1	0	5	narrative	0	Τάημισα οι νομάτοι θέκνουν μέγκενε τζαι πιένουν μες αρά.	mid
+Fairytale1.18	Fairytale	3	short	0	0	0	1	0	0	0	1	0	0	2	0	0	0	2	narrative	0	Φταίνουν μες τελέφι.	simple
+Fairytale1.19	Fairytale	8	medium	2	0	0	1	0	1	0	0	0	0	4	0	0	0	4	narrative	0	Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	mid
+Fairytale1.20	Fairytale	8	medium	0	1	0	1	0	0	0	0	0	0	4	1	0	0	6	direct	1	Πα ποίκομε να γλιτώσουμε ‘π’ ατό το σεφιλλίκι;»	complex
+Fairytale1.21	Fairytale	6	medium	1	0	0	0	0	0	1	0	0	0	4	0	0	0	4	narrative	0	Κάτζιψαν τζαι του χωρού τα χαϊβάνα.	mid
+Fairytale1.22	Fairytale	3	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι:	simple
+Fairytale1.23	Fairytale	9	medium	2	0	0	2	0	0	0	0	0	0	4	0	0	0	4	direct	1	«Με μεις, το μέτρο το σεφιλλίκι ένι τζάβου ζόρι.	mid
+Fairytale1.24	Fairytale	31	long	1	5	0	1	0	0	1	2	1	0	5	0	3	0	8	direct	1	Χεμ ’αμναίνουμε την Άνοιξη τζαι το Μαθόπωρο τα χωράφα τουν, χεμ ταβρούμε το τουκάνι σ’ αώνι σ’ον τεμίση πέσου, χεμ κουβαλαίνουμε σου σειμού το τουφάνι ξύα στο ορμάνι.	complex
+Fairytale1.25	Fairytale	12	medium	3	2	0	2	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Τζαι ουστουνέ, κοπανίζουν μες μο το ραβdί, τζεντάν μες μο το βουτζέντρι.	mid
+Fairytale1.26	Fairytale	14	long	1	1	0	4	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Τε στέρου πάλι τάημισα φήνουν μες νηστικά σα οράνα τζαι τάημισα φσάκνουν μες.	mid
+Fairytale1.27	Fairytale	11	medium	1	1	0	2	0	0	0	2	0	0	4	0	1	0	5	narrative	0	Τρων το κρες μας τζαι μο το πόστι μας φταίνουν τσαρούχα.	mid
+Fairytale1.28	Fairytale	8	medium	0	1	0	1	0	0	1	0	0	0	3	1	0	0	5	narrative	0	‘Ινεται τελέφι το δέρμα μας σ' η στράτα.	mid
+Fairytale1.29	Fairytale	8	medium	2	0	0	1	0	1	0	0	0	0	4	0	0	0	4	narrative	0	Ατό το μέτρο το κετσίμι, κετσίμι τζό ‘νι.	mid
+Fairytale1.30	Fairytale	6	medium	0	0	0	0	0	0	0	1	0	0	4	1	0	0	6	direct	1	Να νάβρουμε αν τσαρές να γλιτώσουμε».	complex
+Fairytale1.31	Fairytale	10	medium	4	1	0	0	0	0	1	0	0	0	4	0	0	0	4	narrative	0	Είπεν τι κι τζ’ αωπός, ο Μουdούρης, σ ο μεντζιλίσι:	mid
+Fairytale1.32	Fairytale	4	short	1	0	0	0	0	0	0	0	0	0	3	0	0	0	3	direct	1	«Ε dόστοι, είστε χαχλούδες.	simple
+Fairytale1.33	Fairytale	11	medium	2	0	0	0	0	0	0	2	0	0	4	0	1	0	5	narrative	0	Οι νομάτοι σκοτώνουν του ρουσού τα τζαναβάρα τσαι φσάζουν τα χαϊβάνα.	mid
+Fairytale1.34	Fairytale	6	medium	0	0	0	1	0	0	1	0	0	0	3	1	0	0	5	direct	1	Με νανόστετε σοτίπος φταίνουν τα αούτζι;	mid
+Fairytale1.35	Fairytale	33	long	5	0	0	3	0	0	0	6	0	0	7	0	2	0	9	direct	1	Μεις, οι αωποί, κλέφτουμε τα ’ρνίθε τουν, τα ’ρκούδε αχτούνε τα μελίσα τουν τζαι τρων το μέλι, ο λύκος τρω τα πρόβατα τζαι τα γίδε, ο ασλάνος παρτσαλατίζει τα μουσκάρα τζαι τα γαϊρίδε.	complex
+Fairytale1.36	Fairytale	14	long	4	1	0	3	0	0	0	0	0	0	5	0	0	0	5	direct	1	Σεις πάλι του χωρού τα χαϊβάνα πα ποίτζετε δεχούς την παχνή του αυτέdη σας;	mid
+Fairytale1.37	Fairytale	28	long	5	7	0	2	0	0	0	0	1	0	4	0	0	0	4	direct	1	Τούς ‘χα κετσιντήσετε σα ρουσία δεχούς σταύκο σο τουφάνι πέσου, δεχούς άσερο, δεχούς χορτάρι τζαι πασκά τουρλού ταγΐ το σειμό, δεχούς τ’ αφτέντη σας το σαγιά;»	mid
+Fairytale1.38	Fairytale	14	long	2	2	0	0	0	0	1	0	1	0	4	0	0	0	4	narrative	0	Αδού, σ’ αωπού το κατζί πάνου, είπανε τζαι τα ’πομεινά του ρουσού τα τζαναβάρα:	mid
+Fairytale1.39	Fairytale	4	short	2	0	0	1	0	0	0	0	0	0	2	0	0	0	2	direct	1	«Τεμέκ πω λέτε dόστοι;	simple
+Fairytale1.40	Fairytale	10	medium	1	2	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	Απιδού στέρου να ‘υριστούμε τζας είμεστε σ η φωλέ μας:	simple
+Fairytale1.41	Fairytale	12	medium	1	2	0	2	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Τα τζαναβάρα σο ρουσί, χερκές να υπά σο σπήλο του.	simple
+Fairytale1.42	Fairytale	15	long	0	2	0	1	0	0	0	1	0	0	4	1	0	0	6	direct	1	Ερ να πασλατίσουμε χαρέτζα μουχαρεπέ μο τις χωρότοι, πελάς α νάρτει σο τσουφάλι μας».	complex
+Fairytale1.43	Fairytale	6	medium	1	0	0	0	0	0	1	0	0	0	4	0	0	0	4	narrative	0	Είπανε τζαι του χωρού τα χαϊβάνα:	mid
+Fairytale1.44	Fairytale	9	medium	1	2	0	2	0	0	1	0	1	0	3	0	0	0	3	direct	1	«Να υπάμε τζαι μεις σις χωρότοι μας κοντά.	simple
+Fairytale1.45	Fairytale	6	medium	1	1	0	2	0	0	0	0	0	0	4	0	0	0	4	direct	1	Χέρκες σ' αφτέdη του το σταύκο».	mid
+Fairytale1.46	Fairytale	4	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Αωπός είπεν dι κι:	simple
+Fairytale1.47	Fairytale	15	long	2	2	0	3	0	0	1	0	0	0	4	0	1	0	5	direct	1	«Αμέτε, τα τζαναβάρα χέρκες σο σπήλο του τζαι τα χαϊβάνα σο παχνί τουνε».	mid
+Fairytale1.48	Fairytale	7	medium	2	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Των τζαναβαρίων το μεντζιλίσι χως αδού ήτουνε.	simple
+Fairytale1.49	Fairytale	2	short	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Χωρίστανε, πηάγανε.	simple
+Fairytale1.50	Fairytale	7	medium	1	1	0	1	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.	mid
+Fairytale3.0(Title)	Fairytale	4	short	1	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Αωπός τζαι το λαχτόρι.	mid
+Fairytale3.1	Fairytale	14	long	1	2	0	0	0	0	1	0	0	1	3	0	1	0	4	narrative	0	Σα μπρο τον ταρό, ‘ς εν κουμάσι ήσαντε λια 'ρνίθε τζαι α ζόρι λαχτόρι.	mid
+Fairytale3.2	Fairytale	13	long	1	1	0	0	0	0	1	1	0	0	4	1	0	0	6	narrative	0	Τόινα τη μία έμπ’ αν αωπός σο κουμάσι να φα τα 'ρνίθε.	complex
+Fairytale3.3	Fairytale	7	medium	0	2	0	0	0	0	0	0	1	0	3	0	0	0	3	narrative	0	Στάθη το λαχτόρι σον αωπό γνέντα.	simple
+Fairytale3.4	Fairytale	7	medium	0	0	0	0	0	1	0	2	0	0	4	1	0	0	6	narrative	0	Μη τα φήτζει να πνίξει τα ρνίθε.	complex
+Fairytale3.5	Fairytale	3	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπεν ‘τι κι:	simple
+Fairytale3.6	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	direct	1	«Ε 'ρνιθού κλέφτη.	simple
+Fairytale3.7	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	direct	1	Πώς ‘υρεύεις αδού.	simple
+Fairytale3.8	Fairytale	13	long	1	0	0	2	0	0	0	0	0	0	4	0	1	0	5	direct	1	Ατό το κουμάσι εν το μόνα τζαι γω είμαι των 'ρνιθίουν ο τσουφαλάς».	mid
+Fairytale3.9	Fairytale	5	short	3	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν ‘τι κι τζ’ αωπός:	simple
+Fairytale3.10	Fairytale	6	medium	0	0	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	«Ατέ το κουμάσι εν το μόνα.	simple
+Fairytale3.11	Fairytale	16	long	2	1	0	3	0	0	0	0	0	0	4	1	1	0	7	direct	1	Συ τίς είσαι τζαι μο το λειψό σου τ’ αχίλι ίνεσαι κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς».	complex
+Fairytale3.12	Fairytale	14	long	1	3	0	2	0	0	1	2	1	0	4	1	1	0	7	narrative	0	Πέττασεν αωπός σο λαχτόρι πανου τζαι πίεσεν τα στο γουργούρι ντα πνίξει τεϊ.	complex
+Fairytale3.13	Fairytale	5	short	0	0	0	0	0	0	1	1	0	0	3	1	0	0	5	narrative	0	Είδεν το λαχτόρι κι πνίγεται.	mid
+Fairytale3.14	Fairytale	9	medium	0	0	0	0	0	0	0	2	0	0	6	2	0	0	10	narrative	0	Νανόστε να νάβρει α δεβοσύνη, να κομπώσει τον αωπό.	complex
+Fairytale3.15	Fairytale	3	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπεν ‘τι κι:	simple
+Fairytale3.16	Fairytale	16	long	3	0	0	4	0	0	0	2	0	0	4	0	2	0	6	direct	1	«Έ ντόστη, άφτσε με τζαι μή με πνίξεις, τζαι ‘γω να σα υπώ αν αχιλλούς κατζί».	complex
+Fairytale3.17	Fairytale	4	short	2	0	0	0	0	0	1	0	0	0	2	0	1	0	3	narrative	0	Λέ’ ‘τι τζ’ αωπός:	simple
+Fairytale3.18	Fairytale	8	medium	0	0	0	3	0	0	0	2	0	0	4	2	0	0	8	direct	1	«Πέ με να ‘ούμε π’ α μα ειπείς».	complex
+Fairytale3.19	Fairytale	15	long	3	0	0	1	0	0	1	0	0	1	5	1	1	0	8	direct	1	«Έ ντόστη», λέ ‘τι κι το λαχτόρι, «με ‘γω κουμασού αφτέν τζαι 'ρνιθίουν τσουφαλάς ίνομαι;	complex
+Fairytale3.20	Fairytale	4	short	0	0	0	1	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Γω είμαι άλεϊ φυακιάρ’.	simple
+Fairytale3.21	Fairytale	5	short	0	0	0	1	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Αφτέν του κουμασού είσαι συ.	simple
+Fairytale3.22	Fairytale	15	long	0	0	0	3	0	0	0	2	0	0	5	2	0	0	9	direct	1	Χα τιδέ είπα σε τ’ αβούτζι αν ασλανίχι να ‘ουμε π’ α με ποικ τεϊ».	complex
+Fairytale3.23	Fairytale	5	short	3	0	0	0	0	0	1	0	0	0	2	0	1	0	3	narrative	0	Λε’ ‘τι τζ’ απός κι:	simple
+Fairytale3.24	Fairytale	27	long	4	0	0	4	0	0	0	2	0	0	6	2	2	0	12	direct	1	«Ματέμ κι ‘ύρεψες να με ζαναχέπ’ πίσι λαχτόρι ραδέ, εμ μπρο αρέ να σε πνίξω, να σε παρτσαλατίσω τζαι τε στέρου να σε ποίκω α ζόρι φάεμα».	complex
+Fairytale3.25	Fairytale	6	medium	3	0	0	0	0	0	1	0	0	0	3	0	1	0	4	narrative	0	Είπεν τι τζαι το λαχτόρι κι:	mid
+Fairytale3.26	Fairytale	10	medium	0	1	0	2	0	1	0	2	0	0	4	1	0	0	6	direct	1	«Γροίξα τα κι στα σέρα σου κατιέν τζο γλιτώνω.	complex
+Fairytale3.27	Fairytale	5	short	0	0	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	Α με φας α υπά.	simple
+Fairytale3.28	Fairytale	30	long	1	3	0	3	0	1	0	6	0	0	6	4	0	0	14	direct	1	Πιρ μη με φας, να γαπάς το Θεό σου, άφτσε με να βκώ ‘τζα σο δώμα πάνω ν’ αλήσω στερνά δύο τρία φορέδες, να πητάξω σελάμι σις χωρώτοι.	complex
+Fairytale3.29	Fairytale	13	long	4	1	0	3	0	0	0	2	0	0	4	0	1	0	5	direct	1	Τζαι στέρου ποικ το κέιφι σου τζαι φα με μο το χουζούρι σου.	mid
+Fairytale3.30	Fairytale	11	medium	1	0	0	2	0	0	0	1	0	0	4	0	0	0	4	direct	1	Εδώ τζαι συ ντάμα μου να σεριανείς του χωρού τα κουμάσα».	mid
+Fairytale3.31	Fairytale	5	short	3	0	0	0	0	0	1	0	0	0	2	0	1	0	3	narrative	0	Είπεν ‘τι τζ’ απός κι:	simple
+Fairytale3.32	Fairytale	13	long	0	1	0	1	0	0	1	0	0	0	5	2	0	0	9	direct	1	«Χύτα να βκούμε σο δώμα, να 'ινεί το στερνό σου το χατίρι».	complex
+Fairytale3.33	Fairytale	7	medium	0	1	0	0	0	0	1	0	0	0	4	0	1	0	5	narrative	0	Πέττασεν το λαχτόρι, έβκη σο δώμα.	mid
+Fairytale3.34	Fairytale	7	medium	0	0	0	1	0	0	1	0	0	0	3	0	2	0	5	narrative	0	Ήρτε τζ’ αωπός κοντά του, στάθη παρέκει.	mid
+Fairytale3.35	Fairytale	13	long	0	1	0	0	0	0	0	2	0	0	5	1	1	1	8	narrative	0	Αωπός μετρά του χωρού τα κουμάσα, σαίρεται τα πουά 'ρνίθα του χα φα.	complex
+Fairytale3.36	Fairytale	6	medium	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Το λαχτόρι άλτσε δύο τρία φορές.	simple
+Fairytale3.37	Fairytale	16	long	1	1	0	0	0	0	0	3	0	0	6	0	0	0	6	narrative	0	Τε στέρου σιτσιράτσεν σ’ απού τη χαραή, τσιρμαλάτσεν τα, έβκαλεν τα φτάλμε του ποίτζεν dα κοριένι.	complex
+Fairytale3.38	Fairytale	3	short	0	0	0	0	0	0	0	1	0	0	2	0	0	0	2	narrative	0	Αωπός ενότουν πουσμάνι.	simple
+Fairytale3.39	Fairytale	2	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Νανόστε κι:	simple
+Fairytale3.40	Fairytale	20	long	2	1	0	3	0	1	1	1	0	0	4	0	1	0	5	direct	1	«Απιδέ στέρου να νάχω τ’ αχίλι μου σο τσουφάλι μου, τζαι αβούτζι να μη με ζαναχεύει αν πίσι λαχτόρι.	mid
+Fairytale3.41	Fairytale	16	long	1	2	0	4	0	0	0	0	0	0	4	2	0	0	8	direct	1	Ήτουν σα σέρε μου, κέσκε ντα φάω τσας τα είχα σα σέρε μου».	complex
+Fairytale3.42	Fairytale	18	long	2	2	0	1	0	0	1	2	0	0	4	0	3	0	7	narrative	0	Σ'του λαχτορού το λάληλα ξύπνησαν οι χωρότοι ήρταν, πιέσαν τον κιορ αωπό, κόνσαν τα σον dερέ.	complex
+Fairytale3.43	Fairytale	7	medium	1	1	0	1	0	0	0	0	0	0	4	0	2	0	6	narrative	0	Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.	complex
+Fairytale4.0(Title)	Fairytale	5	short	1	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Αωπός τζαι το λαχτόρι. Β	mid
+Fairytale4.1	Fairytale	18	long	1	1	0	0	0	0	0	1	0	0	4	1	1	0	7	narrative	0	Σον παλό τον ταρό, α φορά αν αωπός πιέσεν α λαχτόρι ν’ τα φα, τζ’ είπεν ‘τι:	complex
+Fairytale4.2	Fairytale	17	long	2	1	0	3	0	0	0	1	0	0	4	0	1	0	5	direct	1	«Ε λαχτόρι, συ πώτ’ς είσαι τζαι αντί πέγος - αβγάτ’ς, φοραίνεις τζαι τζισμέδε αβγάτη σα ποδάρε σου;	mid
+Fairytale4.3	Fairytale	9	medium	0	1	0	3	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Πώτς έν’ ατέ το κουκούλι σο τζουφάλι σου;	simple
+Fairytale4.4	Fairytale	5	short	0	0	1	0	0	1	0	0	0	0	3	0	0	0	3	narrative	0	Μην είσαι ζαπίτ’ς του Γενιτζερίουν;	simple
+Fairytale4.5	Fairytale	5	short	1	0	0	1	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Συ τελλάλ είσαι τζαι ‘ξωματικός;	mid
+Fairytale4.6	Fairytale	5	short	2	0	0	0	0	0	0	0	0	0	4	0	1	0	5	direct	1	Τζαι τσιράς νυέχτα τζαι ημέρα;	mid
+Fairytale4.7	Fairytale	8	medium	2	1	0	0	0	0	0	0	0	0	4	0	1	0	5	direct	1	Τζαι αλείς αντί πέγος, δεχούς μάνα τζαι ‘δελφές!»	mid
+Fairytale4.8	Fairytale	8	medium	1	0	0	0	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Το λαχτόρι πάλι δώτζεν τζογάπην τζ’ είπεν ‘τι:	mid
+Fairytale4.9	Fairytale	2	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	direct	1	«Ούμα είμαι!»	simple
+Fairytale4.11	Fairytale	7	medium	1	0	0	3	0	0	0	0	0	0	3	1	0	1	5	direct	1	«Ό,τι τζαι να με ειπείς ‘πέ με!	mid
+Fairytale8.8	Fairytale	17	long	0	2	0	2	0	0	1	1	1	0	4	0	0	0	4	direct	1	«Α σα θέκω σ΄ε καφέσι πέσου», είπεν τι ο νομάτ, “τάιμα να κούω τα τραγώδε σου».	mid
+Fairytale8.9	Fairytale	15	long	1	1	0	2	0	1	1	0	0	0	4	0	0	0	4	direct	1	«Ερ να με θέκ σο χαπίσι», είπεν τι το πουλπούλι, «γω γάτιεν τζο τραγωδώ».	mid
+Fairytale8.13	Fairytale	13	long	1	1	0	1	0	0	0	1	0	0	4	1	1	0	7	direct	1	Ο νομάτ φήτζεν το πουλπούλι τζ΄ τζείνο πέττασεν πα σ΄ε ψεό τάλι.	complex
+Fairytale2.1	Fairytale	26	long	5	1	0	1	0	0	0	2	0	0	5	2	2	0	11	narrative	0	Σα παλέ τις χρόνες τζας ήσανται τα καμήλε τελλάλοι τζ’ οι παντιτζοί ξουριστέροι, του ρουσού τα τζαναβάρα ποίκαν α μεντζιλίσι να ιδούν το κετζίμι τουν.	complex
+Fairytale2.2	Fairytale	22	long	2	2	0	2	1	0	0	1	0	1	6	3	1	0	13	narrative	0	Πασλάτσαν να τζαναβαρίζουν, τους α 'ινεί να χωρίσουν το χαβλού τουν τζαι το τζυνή’ι τουν σο ρουσί τζαι σο ορμάνι.	complex
+Fairytale2.3	Fairytale	7	medium	2	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Σηκώθην τζαι είπεν τι κι τζ’ αωπός:	mid
+Fairytale2.4	Fairytale	12	medium	2	1	0	1	0	0	0	1	0	0	3	0	0	0	3	direct	1	«Ε dόστοι, τε μπρο να βγκάλουμε τον τσουφαλά μας σο μεντζιλίσι».	simple
+Fairytale2.5	Fairytale	7	medium	0	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν τι κι τζ’ ο ασλάνος χέμεν:	simple
+Fairytale2.6	Fairytale	22	long	3	1	0	3	1	0	1	0	0	1	5	1	2	0	9	direct	1	«Γω είμαι ο πατισάχος τσιπ του ρουσού τζαι του ορμανού των τζαναβαρίουν, πρέφτει με να ’ινώ γω ο τσουφαλάς σο μεντζιλίσι».	complex
+Fairytale2.7	Fairytale	8	medium	3	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Σηκώθην τζαι το σοιρίδι τζαι είπεν dι κι:	mid
+Fairytale2.8	Fairytale	11	medium	0	0	0	1	1	0	0	0	0	0	4	0	1	0	5	direct	1	«Ο ασλάνος ένι βυνατό τζαναβάρι, με τ’ αχίλι του ένι λειψό.	mid
+Fairytale2.9	Fairytale	17	long	0	0	0	1	0	0	0	2	0	0	6	2	2	0	12	direct	1	Να ποίκουμε το ’ρκούδι τσουφαλά μας, τσούγκι χεμ πολύ αχιλλούς ένι, χέμ κατέσει παιξήματα τζαι ινσανού τερτίπε».	complex
+Fairytale2.10	Fairytale	9	medium	0	1	0	0	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Ο ασλάνος χολιέστι μο το του σοιριδού το κατσί.	mid
+Fairytale2.11	Fairytale	8	medium	2	0	0	0	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Κόνσεν dα α μούντος τζαι είπεν dι κι:	mid
+Fairytale2.12	Fairytale	2	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	direct	1	«Χα βρωμιέρη!»	simple
+Fairytale2.13	Fairytale	13	long	1	2	1	0	0	0	0	1	0	1	5	0	0	0	5	narrative	0	Τα τζαναβάρα, με τ’ ε μούγκρισμα, έβκαλαν το 'ρκούδι μεχτάρη σο μεντζιλίσι.	mid
+Fairytale2.14	Fairytale	12	medium	2	0	0	1	1	0	0	2	0	0	4	0	1	0	5	narrative	0	Τε στέρου, τζας όρσανε τ’ αβτζιλίκι τουνε, το ‘ρκούδι ποσάλτσεν το μεντζιλίσι.	mid
+Fairytale2.15	Fairytale	19	long	2	4	0	1	0	0	0	1	2	1	6	0	1	0	7	narrative	0	Το σοιρίδι τζας δεβαίγκε στον ασλάνο μπρο, υρίστη τον κων του τζ’ έκκουασεν σο μυτί του γνέντα.	complex
+Fairytale2.16	Fairytale	18	long	1	2	0	1	1	0	0	1	1	1	6	2	0	0	10	narrative	0	Ο ασλάνος χολιέστην, σηκώθαν του γουργουρού του τα τσάρε, με ντράπη ν’ τα σπαράξει σο μεντζιλίσι πέσου.	complex
+Fairytale2.17	Fairytale	6	medium	2	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Είπεν τι κι σο σοιρίδι:	simple
+Fairytale2.18	Fairytale	16	long	0	1	1	1	0	0	1	0	0	1	5	0	0	0	5	direct	1	«Να κρατεί ο κω σου, εδώ την εβή αδέ σου Καβάρη το κάτζι να μετρηθούμε».	mid
+Fairytale2.19	Fairytale	6	medium	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι τζαι το σοιρίδι κι:	simple
+Fairytale2.20	Fairytale	2	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	direct	1	«Χα νάρτου».	simple
+Fairytale2.21	Fairytale	13	long	2	2	0	1	1	0	1	0	0	0	4	0	0	0	4	narrative	0	Πην το σοιρίδι σο κουμάσι, είπεν τι σ’η ’ναίκα του κι:	mid
+Fairytale2.22	Fairytale	14	long	0	2	1	0	0	0	0	0	0	0	5	1	0	0	7	direct	1	«Την εβή χα υπάω να μετρηθώ μο τον ασλάνο σου Καβάρη το κάτζι».	complex
+Fairytale2.23	Fairytale	6	medium	1	0	0	0	0	0	1	1	0	0	4	1	0	0	6	narrative	0	Τρόμαξεν η σκρόφα, πασλάτσεν να τζαναβαρίζει:	complex
+Fairytale2.24	Fairytale	11	medium	0	1	0	5	0	0	0	0	0	0	4	1	0	1	6	direct	1	«Βάι, ποτς εν ατό του μας ηύρε σο τσουφάλι μας.	complex
+Fairytale2.25	Fairytale	9	medium	1	0	0	1	1	0	0	1	0	0	3	0	0	0	3	narrative	0	Την εβίτζα ο ασλάνος ’α παρτσαλατίσει τον άντρα μου.	simple
+Fairytale2.26	Fairytale	12	medium	2	2	0	3	0	0	1	0	0	0	4	0	0	0	4	direct	1	Πα ποίκω γω δεχούς άντρα μο τα εννέ μαχσούλε μου, τα ’ρφανά;»	mid
+Fairytale2.27	Fairytale	5	short	1	0	0	0	0	0	0	0	0	0	3	1	0	0	5	narrative	0	Τα σοιριδόκα πασλάτσαν να βουρκανίζουν:	mid
+Fairytale2.28	Fairytale	9	medium	0	1	0	3	0	0	1	0	0	0	4	0	0	0	4	direct	1	«Πα ’ινούμε μεις τα ’ρφανά δεχούς τον παπάκα μας;	mid
+Fairytale2.29	Fairytale	5	short	1	0	0	1	0	0	1	0	0	0	3	0	0	0	3	direct	1	Α μας φαν οι λύτζοι.»	simple
+Fairytale2.30	Fairytale	9	medium	1	1	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Με το σοιρίδι πην τζαι ύπνωσεν χως την εβήτζα.	mid
+Fairytale2.31	Fairytale	2	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Χορλατίζει σερμπέσα.	simple
+Fairytale2.32	Fairytale	11	medium	1	0	0	0	0	0	0	1	0	0	5	2	1	0	10	narrative	0	Τζας σηκώθην την εβήτζα, πην τζαι πήρεν το γουβάλι μάρτυρα τεϊ.	complex
+Fairytale2.33	Fairytale	7	medium	0	2	0	0	0	0	0	0	1	0	3	0	0	0	3	narrative	0	Τε μπρο τσυλίσταν σα κάκα πέσου.	simple
+Fairytale2.34	Fairytale	9	medium	2	1	1	0	0	0	0	0	0	1	5	0	0	0	5	narrative	0	Στέρου γιαβάσα γιαβάσα πηάγαν σου Καβάρη το κάτζι.	mid
+Fairytale2.35	Fairytale	8	medium	2	1	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Ατζεί πεκλετίγκεν ο ασλάνος μο το καπλάνι μάρτυρα.	simple
+Fairytale2.36	Fairytale	8	medium	2	0	0	0	0	0	1	0	0	0	5	0	1	0	6	narrative	0	Ήτουν ντάμα τουν τζαι αωπός μεχτάρης τζαι τοκτόρης.	complex
+Fairytale2.37	Fairytale	26	long	2	4	0	3	1	1	2	1	1	0	6	2	0	1	10	narrative	0	Τζας γιαναστέσαν το σοιρίδι μο το γουβάλι σα κάκα πέσου, τα πεμεινά τζο πόρκαν να κρατήσουν το σολούχι τουν στη βρώμα του φερήγκην άνεμους.	complex
+Fairytale2.38	Fairytale	9	medium	2	0	0	0	0	0	0	1	0	0	4	0	1	0	5	narrative	0	Ο ασλάνος πήρεν το καπλάνι τζαι χύτσαν, έφυαν μακρά.	mid
+Fairytale2.39	Fairytale	10	medium	0	0	0	1	0	0	0	0	0	0	5	1	1	1	8	narrative	0	Ο αωπός, του ήτουν ατζεί μεχτάρ τζαι τοκτόρ, πόμεινην λέικο.	complex
+Fairytale2.40	Fairytale	11	medium	1	1	0	2	2	0	0	2	0	1	4	0	0	0	4	narrative	0	Πιέσην το μυτί του, έθιτζιν τα κοζλούχα σα φτάλμε του.	mid
+Fairytale2.41	Fairytale	6	medium	1	1	0	1	1	0	0	0	0	0	3	0	0	0	3	narrative	0	Έγραψεν σο τεφτέρι του κι:	simple
+Fairytale2.42	Fairytale	7	medium	0	0	0	0	0	0	1	0	0	0	4	0	0	0	4	direct	1	«Ο ασλάνος έφυν, πόμεινεν παλικάρι το σοιρίδι».	mid
+Fairytale2.43	Fairytale	14	long	1	2	0	0	0	0	1	1	0	1	4	0	1	0	5	narrative	0	∆ώτζεν το χαρτίο σο σοιρίδι τζαι χύτσεν ο αωπός σον ασλάνο κοντά.	mid
+Fairytale2.44	Fairytale	13	long	0	2	0	1	1	0	1	1	0	1	4	0	0	0	4	narrative	0	’Υρίστην το σοιρίδι σο κουμάσι, δώτζην το χαρτίο σ’η ’ναίκα του.	mid
+Fairytale2.45	Fairytale	3	short	0	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Χάρην η σκρόφα.	simple
+Fairytale2.46	Fairytale	7	medium	0	1	0	1	1	0	1	0	0	0	3	0	0	0	3	narrative	0	Πέττασαν στη χαρά τουν τα σοιριδόκα.	simple
+Fairytale2.47	Fairytale	11	medium	0	1	0	1	1	0	0	0	0	0	3	1	0	0	5	narrative	0	Το σχοιρίδι δέβην πάνου σον ασλάνο πιρ μου τα γουτσαχλατίσει!	mid
+Fairytale2.48	Fairytale	7	medium	1	1	0	1	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.	mid
+Fairytale2.49	Fairytale	9	medium	0	1	0	0	0	1	0	0	0	0	3	0	0	0	3	direct	1	Ντεμέκ: «Σο σοιρίδι μη πουλαστές, α ινείς περπάτι.	simple
+Fairytale2.50	Fairytale	3	short	1	0	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	Τζαι 'τζείνο σαίρεται».	simple
+Fairytale5.0	Fairytale	7	medium	1	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Του Βασιλό τα φσάχα τζ' οι Ντιλπέρτσες	mid
+Fairytale5.1	Fairytale	12	medium	1	1	0	0	0	0	0	0	0	0	4	0	1	0	5	narrative	0	Σον παλό τον ταρό ήτουν α βασιλός τζ΄ είσεν τρία γιοί.	mid
+Fairytale5.2	Fairytale	13	long	0	3	0	1	0	1	0	0	1	0	3	0	0	0	3	narrative	0	Σ' η βασιλεία του πέσου κορίτσε σα παλικάρα του γκιορέ τζο βρισκούσαντε.	simple
+Fairytale5.3	Fairytale	17	long	0	1	0	0	0	0	0	3	0	0	5	1	0	0	7	narrative	0	Α ημέρα, τα φσάχα ποίκαν το κατζί, να υπάν’ σ’ εν άβου χώρας τόπος να ‘ναύρουν νυφάδες.	complex
+Fairytale5.4	Fairytale	9	medium	1	1	0	1	0	0	0	1	0	2	4	0	1	0	5	narrative	0	Γαλίτζεψαν τ’ άβγα τουν, τζ’ έβκαν ση στράτα.	mid
+Fairytale5.5	Fairytale	13	long	4	1	0	0	0	0	0	1	0	0	7	0	4	0	11	narrative	0	Πηάγαν, πηάγαν, δέβαν ρουσία τζαι χαΐτζοι, τζ’ ήρταν ‘σ εν πεγάιδι η ράστα.	complex
+Fairytale5.6	Fairytale	4	short	0	0	0	0	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Ατζεί χωριζούσαντε τρία στράτες.	simple
+Fairytale5.7	Fairytale	6	medium	0	0	0	0	0	0	0	0	0	1	4	0	0	0	4	narrative	0	Τό ινα η στράτα λένκεν ‘τι:	mid
+Fairytale5.8	Fairytale	6	medium	1	0	0	0	0	0	0	0	0	0	3	0	1	0	4	direct	1	«Α υπάς τζαι α ‘υριστείς ξοπίσου».	mid
+Fairytale5.9	Fairytale	8	medium	0	0	0	1	0	0	0	1	0	0	4	0	0	0	4	narrative	0	Το δεύτερο η στράτα πάλι είπεν dα αβούτσι.	mid
+Fairytale5.10	Fairytale	7	medium	0	0	0	0	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Το τρίτον η στράτα λέγκεν ‘τι κι:	mid
+Fairytale5.11	Fairytale	7	medium	0	0	0	0	0	1	0	0	0	0	3	0	1	0	4	direct	1	«Α υπάς για, τζ’ α ‘υριστείς ξοπίσω!»	mid
+Fairytale5.12	Fairytale	29	long	1	4	0	0	0	0	0	0	0	5	6	0	2	0	8	narrative	0	Το μέγο τουν αδεφός έμπη σο πρώτον τη στράτα, ‘σ μέσης τουν έμπην σο δεύτερο τη στράτα τζαι το μιτσίκκο αδεφός έμπην σο τρίτον τη στράτα.	complex
+Fairytale5.13	Fairytale	17	long	2	3	0	1	0	1	0	1	0	1	4	1	1	0	7	narrative	0	Πίρ μη μπούν σις στράτες, έθακαν τα δαχτυλίδε τουν σ’ ε θάλιν πουκάτου, τζ΄είπαν ‘τι:	complex
+Fairytale5.14	Fairytale	15	long	1	2	0	2	0	0	1	0	0	0	5	1	1	0	8	direct	1	«Ότις ‘α προμπήσει, ‘α φυάξει αδού ΄ς ως του να νάρτουν τζαι τα πεμεινά μας».	complex
+Fairytale5.15	Fairytale	3	short	1	0	0	0	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Πήραν τζαι μασία.	simple
+Fairytale5.16	Fairytale	17	long	1	2	0	1	0	0	0	0	0	0	4	0	1	0	5	narrative	0	Τα πρωτινά τουν τα δύο γιοι, πηάγαν λέικο σ΄ η στράτα, τζ’ ‘υρίσταν ξοπίσω σο πεγάιδι.	mid
+Fairytale5.17	Fairytale	11	medium	1	0	0	2	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Το μιτσίκκο τουν πάλι πήρεν τη στράτα μπρο του τζαι πααίνει.	mid
+Fairytale5.18	Fairytale	23	long	3	3	0	2	0	0	1	1	0	1	5	1	1	0	8	narrative	0	‘Σ τ’ εν ταρός ‘στέρου θωρεί ‘τι κι, γνέντα του ένι αν κάπνη τζαι απή τζει ήρτεν αν τσίκνα σο μυτήν του.	complex
+Fairytale5.19	Fairytale	6	medium	0	0	0	0	0	0	0	1	0	0	5	2	0	0	9	narrative	0	Πήεν να ‘υρέψει ψωμί να φα.	complex
+Fairytale5.20	Fairytale	9	medium	2	1	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Έμπην σο σπίτιν πέσου τζαι θωρεί ‘τι κι!	mid
+Fairytale5.21	Fairytale	14	long	1	1	0	0	0	0	0	2	0	1	5	0	2	0	7	narrative	0	Ένι α Μαρκάλτσα, είσεν το φούρνον απμένον τζαι φρουκαλένκεν τα μο τα βυζία τ’ς!	complex
+Fairytale5.22	Fairytale	16	long	3	1	0	0	0	0	0	1	0	0	5	0	2	0	7	direct	1	Το φσάχι μα στάθην, χεμέν πήρεν αν τζαλούς τζ’ είπεν ‘τι ση Μαρκάλτσα, «Ω νημά!	complex
+Fairytale5.23	Fairytale	8	medium	0	2	0	1	0	1	0	0	0	0	3	0	1	0	4	direct	1	Μη φρουκαλέν’ μο τα βυζία σου, ’α καφτούνται!	mid
+Fairytale5.24	Fairytale	5	short	0	1	0	0	0	0	0	1	0	0	3	0	0	0	3	direct	1	Φρουκάλ’ τα μο τον τζαλούς».	simple
+Fairytale5.25	Fairytale	6	medium	2	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Η Μαρκάλτσα χάρην, τζ’ είπεν ‘τι:	mid
+Fairytale5.26	Fairytale	11	medium	0	0	0	3	0	0	0	1	0	0	3	1	0	0	5	direct	1	«‘Σ τ’ εμέν’ γιο μου, τούς καό ‘υρέβ’ να σε ποίκω;»	mid
+Fairytale5.27	Fairytale	5	short	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	direct	1	Είπεν ‘τι τζαι το φσόκκο:	simple
+Fairytale5.28	Fairytale	9	medium	0	2	0	4	0	0	0	1	0	0	3	1	0	0	5	direct	1	«Συ σε μένα ‘π ‘α πορέζ’ να με ποικ;»	mid
+Fairytale5.29	Fairytale	19	long	2	1	0	1	0	0	0	2	0	0	4	0	2	0	6	narrative	0	Η Μαρκάλτσα ατέ τη μία έβκαλεν ‘πο πέσου σ'το ντουλάπι αν τσίκκιν, δώτζεν τα, τζ’ είπεν ‘τι κι:	complex
+Fairytale5.30	Fairytale	13	long	1	2	0	3	0	0	0	1	0	0	4	1	1	0	7	direct	1	«Έπαρ’ τ’ ατέ το τσίκκι, τζαι ό,τι α ‘υρέβ ‘α σε τα ποίτζει!»	complex
+Fairytale5.31	Fairytale	9	medium	1	0	0	0	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Το φσάχι ατότε πήρεν το τσίκκιν τζαι δέβην πήεν.	mid
+Fairytale5.32	Fairytale	9	medium	0	1	0	0	0	0	0	0	0	0	5	0	2	0	7	narrative	0	Πολύν παρπάτσεν, λαΐκον παρ-πάτσεν, ήρτεν σ’ ε Γαλάς ‘μπρο!	complex
+Fairytale5.33	Fairytale	15	long	0	1	0	0	0	0	0	2	1	0	5	2	1	0	10	narrative	0	Έκωσεν ‘ς ου να κώσει το Γαλάν, για πούτ’ α θύριν τζούβρεν να μπει πέσου!	complex
+Fairytale5.34	Fairytale	7	medium	1	0	0	0	0	0	1	0	0	0	4	0	1	0	5	narrative	0	Τε στέρου τσίριξεν τζαι νοίγ’ α θύρι.	mid
+Fairytale5.35	Fairytale	8	medium	0	1	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Αδού σο θύριν μπρο έβκην αν Ντιλπέρτσα.	simple
+Fairytale5.36	Fairytale	9	medium	1	0	0	1	0	0	0	0	0	0	4	0	1	0	5	narrative	0	Σα τα είδεν, ατέ τη μία το φσάχι παΐντζεν.	mid
+Fairytale5.37	Fairytale	16	long	3	1	0	0	0	0	0	2	0	0	3	0	1	0	4	direct	1	Το κορτζόκκο για τα χεμέν μο τις τζιράχτσες του, πήρεν το φσάχι, τζ’ έμπασέν τα πέσου.	mid
+Fairytale5.38	Fairytale	20	long	2	2	0	3	0	0	1	1	0	0	4	0	1	0	5	narrative	0	‘Σ τ’ εν κούτι στέρου το φσάχι ήνοιξεν τα φτάλμε του τζ’ ήρτ’ ο νους του σο τσουφάλι του.	mid
+Fairytale5.39	Fairytale	6	medium	1	0	0	0	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Το κορτζόκκο παλί ατότε ρώτσεν τα:	simple
+Fairytale5.40	Fairytale	15	long	0	0	0	3	0	1	1	1	0	0	4	2	0	0	8	direct	1	«Έ φσάχι μου! Αδέ πάνου, ατζεινιά του πετάν τα πουλία πάλι τζο πορούν να νάρτουν.	complex
+Fairytale5.41	Fairytale	4	short	0	0	0	1	0	0	0	0	0	0	2	0	0	0	2	direct	1	Με συ τούζ ήρτες;»	simple
+Fairytale5.42	Fairytale	6	medium	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Λε’ ‘τι τζαι το φσάχι κι:	simple
+Fairytale5.43	Fairytale	13	long	1	0	0	4	0	1	0	0	0	0	4	1	1	0	7	direct	1	«Με μένα τίς χα με κρατήσει τζαι μη με φήτζει νά 'ρτω αδέ;»	complex
+Fairytale5.44	Fairytale	6	medium	1	0	0	0	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Το κορτζόκκο δώτζην το τζεβάπι του:	simple
+Fairytale5.45	Fairytale	6	medium	1	0	0	1	0	0	0	1	0	0	3	0	0	0	3	direct	1	«Έ νομάτη, γω έχω αν Αράπ!	simple
+Fairytale5.46	Fairytale	14	long	1	3	0	3	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Ατός μο τ’ άβγο του κάτα ημέρα 'ξειά στο γεφύρι σο ποτάμι.	simple
+Fairytale5.47	Fairytale	29	long	2	2	0	4	0	0	0	3	0	0	6	3	1	0	13	direct	1	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε, τε μπρο ν’ τα δόσ’ σο τζουφάλι του ν’ τα κρεμίσ’ σο ποτάμι, τζαι να γαλιτζέψεις τ΄άβγο του.	complex
+Fairytale5.48	Fairytale	15	long	1	2	0	4	0	1	0	0	0	0	4	0	2	0	6	direct	1	Ερ να μη τα πασαρέψεις, σεν παλί 'α σε φα, μεν πάλ΄ 'α με φα!».	complex
+Fairytale5.49	Fairytale	7	medium	0	0	0	1	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Ατέ τη μία το φσάχι μα στάθη.	mid
+Fairytale5.50	Fairytale	24	long	2	3	0	2	0	0	1	3	1	0	7	2	3	0	14	narrative	0	Πήρεν, ‘ς ου να γρεπ, το τσίκκιν dου, γαλίτσεψεν τ΄άβγο του, πήεν σο γεθύρι, τζαι φύαξεν ατζεί σ΄ώστου να νάρτ΄ Αράπ.	complex
+Fairytale5.51	Fairytale	12	medium	1	1	0	0	0	0	2	0	0	0	4	0	1	0	5	narrative	0	Σα δώδεκα το σαχάτι, κατακρώτσεν ο ουρανός τζαι σείστην ο κόσμος!	mid
+Fairytale5.52	Fairytale	9	medium	3	1	0	0	0	0	1	1	0	0	4	1	0	0	6	narrative	0	Τζαι θωρεί ‘τι κι ήρτεν Αράπ σ΄ άβγον πάνου.	complex
+Fairytale5.53	Fairytale	26	long	2	3	0	2	0	1	0	3	0	0	7	0	4	0	11	narrative	0	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν dου, σεμάδεψεν τζαι δότζεν dα σο τζουφάλιν dου, κρέμσην dα σο ποτάμι.	complex
+Fairytale5.54	Fairytale	12	medium	3	1	0	1	0	0	0	1	0	0	5	1	1	0	8	direct	1	Τζαι ‘ς ου να γρεπ, πέττασεν τζαι γαλίτζεψεν τ΄ άβγο του Αράπη!	complex
+Fairytale5.55	Fairytale	20	long	2	3	0	0	0	0	0	0	0	0	7	0	4	0	11	narrative	0	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	complex
+Fairytale5.56	Fairytale	21	long	2	1	0	3	0	0	0	2	0	1	5	0	2	0	7	direct	1	«Έπαρ ΄ς το βράδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	complex
+Fairytale5.57	Fairytale	25	long	1	3	0	2	0	0	0	2	0	0	6	1	1	0	9	narrative	0	Το φσάχι τάβρισεν αν τσάρι στο βράδι του, τζαι παλί γαλίτζεψεν τ' άβγο του έμπην σ' η στράτα να υπά σο κορίτζιν κοντά.	complex
+Fairytale5.58	Fairytale	19	long	0	3	0	0	0	0	0	0	0	0	7	0	3	0	10	narrative	0	Για ση στράτα, φοτές 'υριζούτουν, ήρτεν σ΄εν άβου γαλάς μπρο, μα στάθη, δέβην πήε σο κορίτσι.	complex
+Fairytale5.59	Fairytale	5	short	2	0	0	0	0	0	0	1	0	0	3	0	1	0	4	narrative	0	Ρώτσεν τα, τζ΄ είπεν τι:	mid
+Fairytale5.60	Fairytale	7	medium	0	0	0	1	0	0	0	0	0	1	3	0	0	0	3	direct	1	«Ατζεινέ τ΄ άβου ο γαλάς πωτς ένι;»	simple
+Fairytale5.61	Fairytale	5	short	3	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν ΄τι τζαι το κορτζόκκο:	simple
+Fairytale5.62	Fairytale	7	medium	0	0	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	«Ατζεί ένι τ΄ άβου μου η 'δεφή».	simple
+Fairytale5.63	Fairytale	4	short	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Το φσάχι μα στάθη.	simple
+Fairytale5.64	Fairytale	24	long	2	2	0	3	0	0	2	0	0	1	6	0	3	0	9	narrative	0	'Σ ατέ τη μία πήεν σε τ΄ άβου το γαλά, τσίριξεν τζαι ΄δού νοίγην τζαι τούτου το θύριν, φάνην μπρο του αν άβου Ντιλμπέρτσα.	complex
+Fairytale5.65	Fairytale	7	medium	2	0	0	1	0	0	1	1	0	0	4	0	1	0	5	narrative	0	Τζας είδεν τζαι τούτηννας, παΐντσεν το φσάχι.	mid
+Fairytale5.66	Fairytale	12	medium	3	1	0	1	0	0	1	1	0	0	3	0	0	0	3	narrative	0	Τζαι ΄δού χέμεν πήρεν τα τζαι τούτη πέσου, μο τις τζιράχτσες τ΄ς.	simple
+Fairytale5.67	Fairytale	24	long	3	2	0	3	0	0	2	1	0	1	5	0	2	0	7	narrative	0	Τζαι 'σ 'τ εν κούτι στρέρου σα τα ξύπνησεν το παλικάρι, ήνοιξε τα φτάλμε του, τζ' ήρτε ο νους του σο τζουφάλιν του.	complex
+Fairytale5.68	Fairytale	7	medium	3	0	0	1	0	0	0	1	0	0	4	0	1	0	5	narrative	0	Ρώτσεν τα τζαι τούτη τζ΄ είπεν ‘τι:	mid
+Fairytale5.69	Fairytale	11	medium	1	0	0	1	0	0	0	0	0	0	4	0	2	0	6	direct	1	«Ε φσάχι, συ αδέ τούς ήρτες, τούς τα πασάρεψες τζ΄ ήρτες;	complex
+Fairytale5.70	Fairytale	10	medium	0	0	0	1	0	1	0	1	0	0	3	2	0	0	7	narrative	0	Αδέ του πετάν τα πουλία πάλι τζο πορούν να νάρτουν”.	complex
+Fairytale5.71	Fairytale	6	medium	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Λε’ ‘τι τζαι το φσάχι κι:	simple
+Fairytale5.72	Fairytale	13	long	1	0	0	4	0	1	0	0	0	0	4	1	1	0	7	direct	1	«Με μένα τις χα με κρατήσει τζαι μη με φήτζει να νάρτω αδέ;»	complex
+Fairytale5.73	Fairytale	6	medium	1	0	0	1	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Το κορτζόκκο δώτζην το τζεβάπιν του:	simple
+Fairytale5.74	Fairytale	8	medium	1	1	0	1	0	0	0	1	0	0	4	0	0	0	4	direct	1	“Γω έχ΄ αν Αράπ μο τα δύο τζουφάλε.	mid
+Fairytale5.75	Fairytale	14	long	1	3	0	3	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Ατός μο τ’ άβγο του κάτα ημέρα 'ξειά στο γεφύρι σο ποτάμι.	simple
+Fairytale5.76	Fairytale	33	long	2	3	0	4	0	0	0	3	0	0	6	3	1	0	13	direct	1	Ερ συ να ΄υρέφ να ζήσεις πρέφτει σε ν’ τα δόσ’ με τη μία σα δύο του τα τζουφάλε ν’ τα κρεμήσ’ ‘ς σο ποτάμι, τζαι να γαλιτζέψεις τ΄ άβγο του!	complex
+Fairytale5.77	Fairytale	21	long	2	2	0	6	0	1	0	1	0	0	6	1	3	0	11	direct	1	Ερ να μη τα πασαρέψεις, τζαι ατός ερ να σε ναύρει, σεν΄ παλί ά σε φα, μέν πάλ΄ ά με φα».	complex
+Fairytale5.78	Fairytale	24	long	2	3	0	2	0	0	1	2	0	0	6	2	3	0	13	narrative	0	‘Σ ου να γρεπ, πήρεν,το τσίκκιν του, γαλίτσεψεν τ΄ άβγο του, πήεν σο γεθύρι, τζαι φύαξεν ατζεί σ΄ ώστου να νάρτ΄ Αράπ.	complex
+Fairytale5.79	Fairytale	27	long	2	3	0	2	0	1	0	3	0	0	7	0	4	0	11	narrative	0	Τζαι πίρ μη μπει σο ποτάμι, το φσάχι τάνισεν το τσίκκιν του, σεμάδεψεν τζαι δότζεν τα σα δύο τζουφάλε του, κρέμσην τα σο ποτάμι.	complex
+Fairytale5.80	Fairytale	12	medium	3	1	0	0	0	0	0	1	0	0	5	1	1	0	8	direct	1	Τζαι ‘ς ου να γρεπ, πέττασεν τζαι γαλίτζεψεν τ΄άβγο του Αράπη!	complex
+Fairytale5.81	Fairytale	20	long	2	3	0	0	0	0	0	0	0	0	7	0	4	0	11	narrative	0	Τ΄ άβγ΄ ατότε σηκώθην, έβκην σον ουρανό, στέρου κατέβην σον κόσμον, λιέγωσεν τζαι είπεν ‘τι σο φσάχι:	complex
+Fairytale5.82	Fairytale	21	long	2	1	0	3	0	0	0	2	0	1	5	0	2	0	7	direct	1	«Έπαρ ΄ς το βδάδι μ΄ αν τσάρι, τζαι ΄ν ώρα να ’υρέπ τσούσ΄ τα, τζαι γω ‘χα να είμαι κοντά σου».	complex
+Fairytale5.83	Fairytale	24	long	1	3	0	3	0	0	0	2	0	1	6	1	2	0	10	narrative	0	Τάβρισεν αν τσάρι στο βράδι ρου, πήρεν τζ' ατό την Ντιλπέρτσα σ' άβγο του πάνω, ΄υρίστη να υπά σ΄ άβο το κορτίτσι κοντά.	complex
+Fairytale5.84	Fairytale	12	medium	1	2	0	0	0	0	0	0	0	0	5	0	0	0	5	direct	1	Ση στράτα φοτές ‘υριζούτουν ήρτεν σ΄εν άβου γαλάς η ράστα.	mid
+Fairytale5.85	Fairytale	4	short	1	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν ‘τι το κορίτζι:	simple
+Fairytale5.86	Fairytale	7	medium	0	0	0	1	0	0	0	0	0	0	3	0	0	0	3	direct	1	«Αδού ένι τ΄ άβου μου η δεφή».	simple
+Fairytale5.87	Fairytale	19	long	2	3	0	1	0	0	0	1	0	0	4	1	1	0	7	direct	1	Σου να γρεπ' πάγασεν τζαι τούτινα σο πρωτινό το κορίτζι κοντά τζαι ΄υρίστη πίσω σο γαλά.	complex
+Fairytale5.88	Fairytale	7	medium	0	1	0	0	0	0	1	0	0	1	3	0	0	0	3	narrative	0	Τζίριξεν το φσάχι σο Γαλά μπρο.	simple
+Fairytale5.89	Fairytale	8	medium	0	0	0	1	0	0	2	0	0	1	5	0	1	0	6	narrative	0	΄Νοίγη το θύρι, φάνη μπρο του αν Ντιλπέρτσα.	complex
+Fairytale5.90	Fairytale	6	medium	1	0	0	0	0	0	1	0	0	0	3	1	0	0	5	narrative	0	Τζας τα είδεν παΐνσεν το φσάχι.	mid
+Fairytale5.91	Fairytale	5	short	0	0	0	0	0	0	1	1	0	0	3	0	0	0	3	narrative	0	Πήραν τα πέσου οι τσιράχτσες.	simple
+Fairytale5.92	Fairytale	21	long	3	2	0	3	0	0	2	1	0	0	4	0	1	0	5	narrative	0	Τζαι σ' 'τ εν κούτι στέρου, ήνοιξεν τα φτάλμε του το φσάχι, τζ' ήρτεν ο νούς του σο τσουφάλι του.	mid
+Fairytale5.93	Fairytale	4	short	2	0	0	0	0	0	1	0	0	1	3	0	0	0	3	narrative	0	Τζ΄είπεν το κορτζόκκο:	simple
+Fairytale5.94	Fairytale	12	medium	1	0	0	2	0	0	0	0	0	0	4	0	2	0	6	direct	1	«Ε παλικάρι μου, συ αδέ τούς ήρτες, τούς τα πασάρεψες τζ΄ ήρτες;	complex
+Fairytale5.95	Fairytale	10	medium	0	0	0	0	0	1	0	1	0	0	3	2	0	0	7	direct	1	Αδέ του πετάν τα πουλία πάλι τζο πορούν να νάρτουν!»	complex
+Fairytale5.96	Fairytale	6	medium	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Λε’ ‘τι τζαι το φσάχι κι:	simple
+Fairytale5.97	Fairytale	13	long	1	0	0	4	0	1	0	0	0	0	4	1	1	0	7	direct	1	«Με μένα τίς χα με κρατήσει τζαι μη με φήτζει να νάρτω αδέ;»	complex
+Fairytale5.98	Fairytale	26	long	3	4	0	4	0	0	1	1	0	1	5	0	0	0	5	direct	1	«’Γω έχω αν Αράπ μο τα τρία τσουφάλε», είπεν τι το κορτζόκκο, «ατός μο τ’ άβγο του κάτα ημέρα ξειά στο γεφύρι σο ποτάμι.	mid
+Fairytale5.99	Fairytale	15	long	1	2	0	2	0	0	0	0	0	0	4	0	1	0	5	direct	1	Ερ ντα δος με τε τσίκκι σα τρία του τσουφάλε, χα με παρ.	mid
+Fairytale5.100	Fairytale	15	long	3	0	0	4	0	1	0	0	0	0	4	0	2	0	6	direct	1	Ερ να μη τα πασαρέψης, τζαι σένα χα σε φα, τζαι μένα χα με φα».	complex
+Fairytale5.101	Fairytale	6	medium	0	1	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Πην το φσάχι σο γεθύρι.	simple
+Fairytale5.102	Fairytale	26	long	1	4	0	2	0	0	0	4	0	0	6	0	2	0	8	narrative	0	Τζας είδεν τον αράπ σ΄άβγο πάνω, τάνισεν το τσίκκιν του δότσεν dα με τη μία σα τρία τσουφάλε του, κρέμσεν dα σο ποτάμι.	complex
+Fairytale5.103	Fairytale	5	short	1	0	0	1	0	0	0	1	0	0	4	0	0	0	4	narrative	0	Γαλίτζεψεν τ΄ άβγο του Αράπη.	mid
+Fairytale5.104	Fairytale	21	long	3	3	0	2	0	0	0	2	0	0	6	0	2	0	8	narrative	0	Τάβρησεν στο βράδι του αν τσάρι, πήρεν το κορτζόκκο σ' αβγο του πάνω τζαι πην σα πρωτινά τα κορτζόκκα.	complex
+Fairytale5.105	Fairytale	20	long	2	3	0	0	0	0	0	1	0	0	7	1	2	0	11	narrative	0	Τσούριξεν τα τσάρε του πήρην στο πρωτινό τ’ άβγο τζαι στο δεύτερο άβγο τζαι στο τρίτο άβγο.	complex
+Fairytale5.106	Fairytale	16	long	2	1	0	0	0	0	2	2	0	0	6	0	3	0	9	narrative	0	Ήρταν τα τρία τ΄άβγα, γαλίτσεψαν τα κορτζόκα, πήρεν τα τζαι πηάγαν ατζεί σο πεγάιδι.	complex
+Fairytale5.107	Fairytale	14	long	1	1	0	1	0	0	0	2	0	0	5	0	1	0	6	narrative	0	Ηύρεν τα δέλφα του, δέβασαν τ’ αλτουνώνα λαχτυλίδα σων κοριτσών τα σέρα σεμαδεύταν.	complex
+Fairytale5.108	Fairytale	6	medium	2	1	0	0	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Ήρταν σο Σεράη του βασιλό.	mid
+Fairytale5.109	Fairytale	6	medium	0	0	0	0	0	0	0	1	0	0	4	0	0	0	4	narrative	0	Πήκαν γάμος οφτά ημέρες οφτά νυέχτες.	mid
+Fairytale5.110	Fairytale	7	medium	1	1	0	1	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Έφαγαν, έπαν, έφτασαν σα μουράτε τουν.	mid
+Fairytale6.0Title	Fairytale	9	medium	4	0	0	0	0	0	0	0	0	0	4	0	3	0	7	narrative	0	Dουλgέρ, Kουγιουμτζής, Tερζής τζαι τ’ ένα καό Θεού νομάτ.	complex
+Fairytale6.1	Fairytale	4	short	2	0	0	0	0	0	0	0	0	0	3	0	1	0	4	narrative	0	Σηκώθην jαι bά σηκώθη.	mid
+Fairytale6.2	Fairytale	7	medium	0	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	'Σ αμ πώτο ζαμάνι ήτουνε τέσσερα νομάτοι.	simple
+Fairytale6.3	Fairytale	14	long	4	0	0	0	0	0	0	0	0	0	3	0	2	0	5	direct	1	Τ’ ένα ήτουνε qουγιουμτζής, jαι τ’ ένα τερζής, jαι τ’ ένα καό Θεού νομάτ.	mid
+Fairytale6.4	Fairytale	4	short	0	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Πηάγανε ς’ αν ορμάνι.	simple
+Fairytale6.5	Fairytale	6	medium	2	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Αjέ σ’ ορμάνι ήσανdαι πουά λύçοι.	simple
+Fairytale6.6	Fairytale	2	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	çαι σκούνdαι.	simple
+Fairytale6.7	Fairytale	3	short	2	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι	simple
+Fairytale6.8	Fairytale	5	short	0	1	0	0	0	0	0	0	0	0	3	0	0	0	3	direct	1	« Να πνώσωμε με dο νοbάτι.»	simple
+Fairytale6.9	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	΄Υπνωσανε τα τρία.	simple
+Fairytale6.10	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Ο dουλgâρ φύαξε.	simple
+Fairytale6.11	Fairytale	4	short	0	0	0	0	0	0	0	1	0	0	3	0	0	0	3	narrative	0	Είδεν α μέγα ξύο.	simple
+Fairytale6.12	Fairytale	4	short	0	0	0	0	0	0	0	1	0	0	4	0	0	0	4	narrative	0	Σηκώθην, έκοψεν το ξύο.	mid
+Fairytale6.13	Fairytale	8	medium	2	0	0	2	2	0	0	3	0	1	5	0	0	0	5	direct	1	Ήφαρέν dα, ποίτζεν dα α νομάτ, τίπκε νομάτ.	mid
+Fairytale6.14	Fairytale	1	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Ύπνωσε.	simple
+Fairytale6.15	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Σηκώθη ο τερζής.	simple
+Fairytale6.16	Fairytale	6	medium	1	0	0	0	0	0	0	1	0	0	3	1	0	0	5	narrative	0	Ήγρεψεν κι, ένι αjά αν ξύο.	mid
+Fairytale6.17	Fairytale	2	short	1	0	0	1	1	0	0	1	0	0	2	0	0	0	2	narrative	0	Πήρεν dα.	simple
+Fairytale6.18	Fairytale	6	medium	1	0	0	0	0	0	0	1	0	0	3	1	0	0	5	narrative	0	Ήγρεψεν dι κι ένι τίπκε νομάτ.	mid
+Fairytale6.19	Fairytale	5	short	1	0	0	1	1	0	0	1	0	0	3	0	0	0	3	narrative	0	Ποίjεν dα α ζυ ρούχα.	simple
+Fairytale6.20	Fairytale	3	short	1	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Ύπνωσεν ο τερζής.	simple
+Fairytale6.21	Fairytale	5	short	3	0	0	1	1	0	0	1	0	0	4	0	1	0	5	narrative	0	Δέβασέν dα βρασόλε jαι κερdάνε.	mid
+Fairytale6.22	Fairytale	4	short	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Ύπνωσεν j' ο κουγιουμτζής.	simple
+Fairytale6.23	Fairytale	8	medium	1	0	0	0	0	0	0	0	0	0	4	0	0	0	4	narrative	0	Σηκώθην jαι του Θεού το καό ο νομάτ.	mid
+Fairytale6.24	Fairytale	10	medium	3	1	0	0	0	0	0	1	0	0	4	1	0	0	6	narrative	0	Ήγρεψεν κι ένι αjά αν ξύο σον dιέχο τενdεμένο.	complex
+Fairytale6.25	Fairytale	2	short	1	0	0	1	1	0	0	1	0	0	2	0	0	0	2	narrative	0	Πήρεν dα.	simple
+Fairytale6.26	Fairytale	6	medium	1	0	0	1	1	0	0	2	0	0	3	1	0	0	5	narrative	0	Ήγρεψέν dα κι έν’ α σουράτι.	mid
+Fairytale6.27	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπεν dι κι,	simple
+Fairytale6.28	Fairytale	10	medium	2	0	1	1	0	0	0	1	0	0	4	0	1	0	5	direct	1	« Αλλάχ, Παναγία μου, αdέ το κορίdζι δος τα αμ ψυσή».	mid
+Fairytale6.29	Fairytale	6	medium	1	0	0	1	1	0	1	1	0	0	3	0	0	0	3	narrative	0	Δώjεν dα ο Θεός αμ ψυσή.	simple
+Fairytale6.30	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Σηκώθανε την εβίdζα.	simple
+Fairytale6.31	Fairytale	1	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Ξημέρεψε.	simple
+Fairytale6.32	Fairytale	3	short	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Μαρgάωσεν ο dουλgέρ.	simple
+Fairytale6.33	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπεν dι κι,	simple
+Fairytale6.34	Fairytale	4	short	2	0	0	3	2	0	1	0	0	0	2	0	0	0	2	direct	1	« Αdέ ποίκα dα γω.»	simple
+Fairytale6.35	Fairytale	6	medium	3	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι κι jαι ο qουγιουμjής,	simple
+Fairytale6.36	Fairytale	9	medium	4	0	0	2	1	0	0	1	0	0	4	0	1	0	5	direct	1	« Χαΐρ, ’γω πάλι δέβασά dα gουμουσόνα βρασάλε jαι αλτούνε.	mid
+Fairytale6.37	Fairytale	4	short	1	0	0	2	1	0	1	0	0	0	2	0	0	0	2	direct	1	Αν dα πάρω γω».	simple
+Fairytale6.38	Fairytale	5	short	3	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι jαι ο τερζής:	simple
+Fairytale6.39	Fairytale	5	short	2	0	0	2	0	0	1	0	0	0	3	0	0	0	3	direct	1	« Χαΐρ, αν dα πάρω γω.	simple
+Fairytale6.40	Fairytale	3	short	0	0	0	0	0	0	0	1	0	1	3	0	0	0	3	direct	1	Φόρεσά τα ρούχα».	simple
+Fairytale6.41	Fairytale	3	short	2	1	0	1	1	0	0	0	0	0	3	0	0	0	3	narrative	0	Μαρgάωσανε πενενdάβου τουνε.	simple
+Fairytale6.42	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι,	simple
+Fairytale6.43	Fairytale	4	short	1	0	0	0	0	0	0	0	0	0	3	1	0	0	5	direct	1	« Α υπάμε να dανισεφτούμε.»	mid
+Fairytale6.44	Fairytale	2	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Πηάγανε, πηάγανε.	simple
+Fairytale6.45	Fairytale	7	medium	2	1	0	0	0	0	0	0	0	0	3	1	0	0	5	narrative	0	Φοdές πααίνκανε, ήρταν ‘ς α Dερβίς ιράστα.	mid
+Fairytale6.46	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι,	simple
+Fairytale6.47	Fairytale	4	short	1	0	0	3	2	0	1	0	0	0	2	0	0	0	2	direct	1	« Αdε ποίκα τα γω.	simple
+Fairytale6.48	Fairytale	15	long	5	0	0	5	5	0	0	3	0	0	3	0	0	0	3	narrative	0	Αdέ πάλι φόρεσέν τα ρούχα, αdέ πάλι δέβασέν dα βρασάλε, αdέ πάλι δώjεν dα ψυσή.	simple
+Fairytale6.49	Fairytale	5	short	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι κι ο Dερβίσης,	simple
+Fairytale6.50	Fairytale	3	short	0	0	0	2	1	0	0	0	0	0	2	0	0	0	2	direct	1	« Σεις πο λέτε;	simple
+Fairytale6.51	Fairytale	6	medium	1	0	0	2	1	0	0	0	0	0	3	0	0	0	3	narrative	0	Αdό ήdουνε το μονα η κόρη.	simple
+Fairytale6.52	Fairytale	4	short	1	0	0	2	1	0	0	0	0	0	2	0	0	0	2	direct	1	Σεις πού dα ήβρετε;»	simple
+Fairytale6.53	Fairytale	5	short	2	0	0	1	1	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπαν dι κι jαι jείνοι:	simple
+Fairytale6.54	Fairytale	5	short	1	0	0	0	0	1	0	0	0	0	3	1	0	0	5	direct	1	« Έ χοjά, δομαίνο μή ίνεσαι;»	mid
+Fairytale6.55	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι,	simple
+Fairytale6.56	Fairytale	5	short	2	0	0	1	0	0	1	0	0	0	4	1	0	0	6	direct	1	« Χίdα να υπάμε, jαι συ.»	complex
+Fairytale6.57	Fairytale	5	short	1	1	0	0	0	0	0	0	0	0	3	1	0	0	5	narrative	0	Σο ενόσανdαι πένdε πίλενε.	mid
+Fairytale6.58	Fairytale	1	short	0	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Πηάγανε.	simple
+Fairytale6.59	Fairytale	5	short	1	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Ήρτανε ‘ς αν Dερβίσης ιράστα.	simple
+Fairytale6.60	Fairytale	5	short	2	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι κι ο Dερβίσης,	simple
+Fairytale6.61	Fairytale	6	medium	1	0	0	2	1	0	0	0	0	0	3	0	0	0	3	direct	1	« Αdό ένι το μονα η ναικα.	simple
+Fairytale6.62	Fairytale	4	short	0	0	0	2	1	0	0	0	0	0	2	0	0	0	2	direct	1	Σεις πού τα ήβρετε;»	simple
+Fairytale6.63	Fairytale	4	short	0	0	0	0	0	1	0	0	0	0	3	1	0	0	5	direct	1	« Ολάν, δομαίνο μη ίνεσαι;	mid
+Fairytale6.64	Fairytale	4	short	2	0	0	3	2	0	1	0	0	0	2	0	0	0	2	direct	1	Αdό ποίκαμ’ dα μεις.»	simple
+Fairytale6.65	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	2	1	0	0	4	narrative	0	Ενόσανdαι έξι πίλενε.	mid
+Fairytale6.66	Fairytale	4	short	1	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Πηάγανε σον qαdή.	simple
+Fairytale6.67	Fairytale	6	medium	3	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Είπεν dι κι j' ο qαdής,	simple
+Fairytale6.68	Fairytale	5	short	0	0	0	1	0	0	1	0	0	0	3	0	0	0	3	direct	1	« Ένι το μόνα η 'ναίκα.	simple
+Fairytale6.69	Fairytale	4	short	0	0	0	2	1	0	0	0	0	0	2	0	0	0	2	direct	1	Σεις πού τα ήβρετε;»	simple
+Fairytale6.70	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπεν dι κι.	simple
+Fairytale6.71	Fairytale	3	short	1	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Σωρεύτανε το μεντζιλίσι.	simple
+Fairytale6.72	Fairytale	7	medium	4	0	0	2	0	1	0	0	0	0	3	1	0	0	5	narrative	0	Τον çαρέν dου jο bόρκανε dα νάβρουνε.	mid
+Fairytale6.73	Fairytale	3	short	1	0	0	0	0	0	0	0	0	0	2	0	0	0	2	narrative	0	Είπαν dι κι:	simple
+Fairytale6.74	Fairytale	5	short	0	1	0	0	0	0	0	0	0	0	3	0	0	0	3	direct	1	« Άμε jα σο ξύο».	simple
+Fairytale6.75	Fairytale	4	short	0	1	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Πηάγανε σο ξύο.	simple
+Fairytale6.76	Fairytale	7	medium	2	1	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Dένσεν το κορίdζι αjεί σο ξύο.	simple
+Fairytale6.77	Fairytale	3	short	0	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Κανίστη το ξύο.	simple
+Fairytale6.78	Fairytale	4	short	1	0	0	0	0	0	1	0	0	0	3	0	0	0	3	narrative	0	Έμbη το κορίdζι πέσου.	simple
+Fairytale6.79	Fairytale	4	short	1	0	0	0	0	0	0	0	0	0	3	0	0	0	3	narrative	0	Qαπαdίστη πάλι το ξύο.	simple

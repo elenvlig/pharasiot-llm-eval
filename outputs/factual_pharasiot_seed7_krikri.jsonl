@@ -1,0 +1,15 @@
+{"item_id": "factual_01", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}
+{"item_id": "factual_02", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "factual_03", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "factual_04", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "factual_05", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "factual_06", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "β"}
+{"item_id": "factual_07", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "factual_08", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "δ"}
+{"item_id": "factual_09", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}
+{"item_id": "factual_10", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "δ", "parsed_letter": "δ", "correct_answer_position": "δ"}
+{"item_id": "factual_11", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "β", "parsed_letter": "β", "correct_answer_position": "β"}
+{"item_id": "factual_12", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}
+{"item_id": "factual_13", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "α", "parsed_letter": "α", "correct_answer_position": "β"}
+{"item_id": "factual_14", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}
+{"item_id": "factual_15", "task": "factual", "condition": "pharasiot", "model": "krikri", "raw_output": "γ", "parsed_letter": "γ", "correct_answer_position": "γ"}

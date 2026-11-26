@@ -1,0 +1,40 @@
+task	condition	model	favourite	times_chosen	n_responses	filtered_correct	filtered_total	filtered_accuracy	chance	chose_α	chose_β	chose_γ	chose_δ	survives
+lexical_translation	pharasiot	krikri	α	32	80	27	62	0.43548387096774194	0.25	32	13	15	20.0	True
+lexical_translation	pharasiot	meltemi	β	45	80	14	57	0.24561403508771928	0.25	9	45	10	16.0	False
+lexical_translation	pharasiot	llama	α	48	80	14	62	0.22580645161290322	0.25	48	21	8	3.0	False
+sentiment	pharasiot	krikri	γ	60	88	17	56	0.30357142857142855	0.3333333333333333	14	14	60		False
+sentiment	pharasiot	meltemi	β	48	88	18	58	0.3103448275862069	0.3333333333333333	19	48	21		False
+sentiment	pharasiot	llama	α	38	88	22	62	0.3548387096774194	0.3333333333333333	38	24	26		True
+sentiment	greek	krikri	γ	44	88	29	56	0.5178571428571429	0.3333333333333333	21	23	44		True
+sentiment	greek	meltemi	β	47	88	28	58	0.4827586206896552	0.3333333333333333	16	47	25		True
+sentiment	greek	llama	α	49	88	28	62	0.45161290322580644	0.3333333333333333	49	21	18		True
+topic	pharasiot	krikri	α	36	80	21	64	0.328125	0.25	36	8	14	22.0	True
+topic	pharasiot	meltemi	β	46	80	15	48	0.3125	0.25	12	46	13	9.0	True
+topic	pharasiot	llama	α	78	80	2	64	0.03125	0.25	78	0	1	1.0	False
+topic	greek	krikri	β	23	80	35	48	0.7291666666666666	0.25	20	23	22	15.0	True
+topic	greek	meltemi	β	37	80	33	48	0.6875	0.25	12	37	20	11.0	True
+topic	greek	llama	α	67	80	11	64	0.171875	0.25	67	3	7	3.0	False
+nli	pharasiot	krikri	δ	32	80	32	53	0.6037735849056604	0.25	13	13	22	32.0	True
+nli	pharasiot	meltemi	γ	32	80	28	66	0.42424242424242425	0.25	2	26	32	20.0	True
+nli	pharasiot	llama	α	70	80	7	60	0.11666666666666667	0.25	70	1	4	5.0	False
+nli	greek	krikri	δ	29	80	46	53	0.8679245283018868	0.25	17	19	15	29.0	True
+nli	greek	meltemi	β	25	80	43	61	0.7049180327868853	0.25	10	25	23	22.0	True
+nli	greek	llama	α	52	80	24	60	0.4	0.25	52	5	10	13.0	True
+factual	pharasiot	krikri	γ	10	30	13	20	0.65	0.25	6	4	10	10.0	True
+factual	pharasiot	meltemi	β	14	30	12	22	0.5454545454545454	0.25	5	14	7	4.0	True
+factual	pharasiot	llama	α	14	30	10	26	0.38461538461538464	0.25	14	9	5	2.0	True
+factual	greek	krikri	γ	10	30	20	20	1.0	0.25	4	8	10	8.0	True
+factual	greek	meltemi	β	9	30	21	22	0.9545454545454546	0.25	4	9	9	8.0	True
+factual	greek	llama	γ	10	30	17	20	0.85	0.25	6	8	10	6.0	True
+context_tracking	pharasiot	krikri	δ	11	30	11	21	0.5238095238095238	0.25	3	8	8	11.0	True
+context_tracking	pharasiot	meltemi	β	16	30	10	23	0.43478260869565216	0.25	2	16	2	10.0	True
+context_tracking	pharasiot	llama	α	21	30	2	22	0.09090909090909091	0.25	21	8	1	0.0	False
+context_tracking	greek	krikri	δ	12	30	15	21	0.7142857142857143	0.25	6	7	5	12.0	True
+context_tracking	greek	meltemi	β	12	30	15	23	0.6521739130434783	0.25	5	12	4	9.0	True
+context_tracking	greek	llama	α	20	30	4	22	0.18181818181818182	0.25	20	9	1	0.0	False
+discourse	pharasiot	krikri	β	10	30	12	20	0.6	0.25	6	10	6	8.0	True
+discourse	pharasiot	meltemi	β	12	30	8	20	0.4	0.25	0	12	6	12.0	True
+discourse	pharasiot	llama	α	24	30	3	21	0.14285714285714285	0.25	24	6	0	0.0	False
+discourse	greek	krikri	β	13	30	13	20	0.65	0.25	8	13	2	7.0	True
+discourse	greek	meltemi	β	16	30	12	20	0.6	0.25	3	16	4	7.0	True
+discourse	greek	llama	α	26	30	3	21	0.14285714285714285	0.25	26	4	0	0.0	False
