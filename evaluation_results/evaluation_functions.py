@@ -19,8 +19,8 @@ from scipy.stats import binomtest
 # --- settings -------------------------------------------------------------
 # Everything about the study lives here; nothing below should need editing.
 
-OUTPUTS_FOLDER = "outputs"
-METADATA_FOLDER = "metadata"
+OUTPUTS_FOLDER = "../outputs"
+METADATA_FOLDER = "../metadata"
 
 MODELS = ["krikri", "meltemi", "llama"]
 SEEDS = [42, 7]
