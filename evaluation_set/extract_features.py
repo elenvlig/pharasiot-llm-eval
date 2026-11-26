@@ -13,7 +13,8 @@ blank lines.
 The features we compute per sentence:
   * length in tokens (excluding punctuation)
   * length band (short / medium / long)
-  * number of dialect-specific words (borrowings from the lexicon)
+  * number of dialect-specific words (lemmas the treebank writes with
+    Latin letters, e.g. jαναβάρι, menjουλίσι, bά)
   * number of adpositions, proper nouns, pronouns, 3rd-person pronouns
   * number of negation markers
   * number of post-verbal subjects, objects, and adpositions
@@ -31,8 +32,8 @@ Output:
   sentences.tsv (in the current directory)
 """
 
+import re
 import sys
-import pathlib
 
 
 # ---------------------------------------------------------------------------
@@ -51,38 +52,6 @@ MEDIUM_MAX_LENGTH = 15  # 10 to 15 tokens = "medium"; anything above = "long"
 # and complex bands.
 SIMPLE_MAX_SCORE = 3    # 0 to 3 = "simple"
 MID_MAX_SCORE = 6       # 4 to 6 = "mid"; 7 or more = "complex"
-
-
-# ---------------------------------------------------------------------------
-# Helper: load the Pharasiot lexicon
-# ---------------------------------------------------------------------------
-
-def load_lexicon():
-    """Load the Pharasiot lexicon file, one word per line.
-
-    The lexicon contains dialect-specific words (e.g. Turkish- or
-    Persian-origin borrowings). We use it to count how many
-    "dialect-specific" words each sentence has.
-
-    If the file does not exist, we return an empty set. In that case the
-    borrowing count will just be 0 for every sentence.
-    """
-    lexicon = set()
-    lexicon_path = pathlib.Path("pharasiot_lexicon.txt")
-
-    if not lexicon_path.exists():
-        print("  (no pharasiot_lexicon.txt found - borrowing counts will be 0)")
-        return lexicon
-
-    with open(lexicon_path, encoding="utf-8") as f:
-        for line in f:
-            # Strip whitespace and lowercase so lookup is case-insensitive
-            word = line.strip().lower()
-            if word:  # skip empty lines
-                lexicon.add(word)
-
-    print(f"  Loaded {len(lexicon)} words from the lexicon")
-    return lexicon
 
 
 # ---------------------------------------------------------------------------
@@ -232,7 +201,7 @@ def compute_tree_depth(tokens):
 # Main feature extraction
 # ---------------------------------------------------------------------------
 
-def compute_features(sentence, lexicon):
+def compute_features(sentence):
     """Compute all features for one sentence.
 
     Returns a dict with feature names as keys. See the module docstring
@@ -291,8 +260,9 @@ def compute_features(sentence, lexicon):
         tok_id = t["id"]
         head_id = t["head"]
 
-        # Is this word in our dialect lexicon?
-        if lemma and lemma in lexicon:
+        # Dialect-specific words: the treebank writes their lemmas with
+        # Latin letters (e.g. jαναβάρι, menjουλίσι, bά), so count those
+        if re.search(r"[A-Za-z]", lemma):
             borrowing_count += 1
 
         # Count by part of speech
@@ -446,13 +416,10 @@ def main():
 
     conllu_path = sys.argv[1]
 
-    print(f"Loading lexicon...")
-    lexicon = load_lexicon()
-
     print(f"Reading treebank from {conllu_path}...")
     all_features = []
     for sentence in read_sentences_from_conllu(conllu_path):
-        features = compute_features(sentence, lexicon)
+        features = compute_features(sentence)
         all_features.append(features)
 
     print(f"  Processed {len(all_features)} sentences")
