@@ -1,10 +1,9 @@
 """
-03_select_paragraph_pool.py
+select_paragraph_pool.py
 ---------------------------
 Selects 15 paragraphs (4 consecutive sentences each) from the Pharasiot
-treebank. These paragraphs will be used for the four paragraph-level tasks
-in the evaluation (factual prompts, context tracking, discourse continuation,
-paragraph coreference).
+treebank. These paragraphs will be used for the three paragraph-level tasks
+in the evaluation (factual prompts, context tracking, and discourse continuation).
 
 Selection logic:
 
@@ -34,7 +33,7 @@ Selection logic:
 The seed is fixed so re-running gives the same paragraphs.
 
 Usage:
-  python3 03_select_paragraph_pool.py <sentences.tsv> <eval_set_40.tsv> <pharasiot.conllu>
+  python3 select_paragraph_pool.py <sentences.tsv> <eval_set_40.tsv> <pharasiot.conllu>
 
 Output:
   paragraph_pool_15.tsv                  (the 15 selected paragraphs)
@@ -473,7 +472,7 @@ def write_translation_template(selected, glosses, output_path):
                              pharasiot_text, english_text, ""])
 def main():
     if len(sys.argv) < 4:
-        print("Usage: python3 03_select_paragraph_pool.py "
+        print("Usage: python3 select_paragraph_pool.py "
               "<sentences.tsv> <eval_set_40.tsv> <pharasiot.conllu>")
         sys.exit(1)
 
@@ -507,11 +506,11 @@ def main():
     print(f"  Selected {len(selected)} paragraphs total")
 
     # Write outputs
-    pool_path = "/mnt/user-data/outputs/paragraph_pool_15.tsv"
+    pool_path = "paragraph_pool_15.tsv"
     print(f"Writing pool to {pool_path}...")
     write_paragraph_pool(selected, pool_path)
 
-    template_path = "/mnt/user-data/outputs/paragraph_translation_template.tsv"
+    template_path = "paragraph_translation_template.tsv"
     print(f"Writing translation template to {template_path}...")
     write_translation_template(selected, glosses, template_path)
 

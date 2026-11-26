@@ -20,8 +20,8 @@ from collections import defaultdict
 
 
 DENSITY_FILE = "lexical_density_sentences.tsv"
-GOLD_FOLDER = "gold_files"
-OUTPUTS_FOLDER = "outputs"
+GOLD_FOLDER = "../gold_files"
+OUTPUTS_FOLDER = "../outputs"
 OUTPUT_FILE = "density_vs_accuracy.tsv"
 
 MODELS = ["krikri", "meltemi", "llama"]

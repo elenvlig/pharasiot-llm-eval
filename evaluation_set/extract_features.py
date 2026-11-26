@@ -43,15 +43,18 @@ import sys
 # Sentences are grouped by length into three bands.
 # These thresholds were chosen so each band contains roughly a third
 # of the treebank.
-SHORT_MAX_LENGTH = 9    # up to and including 9 tokens = "short"
-MEDIUM_MAX_LENGTH = 15  # 10 to 15 tokens = "medium"; anything above = "long"
+SHORT_MAX_LENGTH = 5    # up to and including 5 tokens = "short"
+MEDIUM_MAX_LENGTH = 12  # 6 to 12 tokens = "medium"; 13 or more = "long"
 
 # Sentences are also grouped by syntactic complexity.
-# The complexity score combines parse depth, subordinate clauses, and
-# coordinated clauses. These thresholds group sentences into simple, mid,
-# and complex bands.
+# The complexity score combines parse depth, subordinate clauses
+# (counted twice) and coordinated clauses. These thresholds group
+# sentences into simple, mid, and complex bands.
 SIMPLE_MAX_SCORE = 3    # 0 to 3 = "simple"
-MID_MAX_SCORE = 6       # 4 to 6 = "mid"; 7 or more = "complex"
+MID_MAX_SCORE = 5       # 4 to 5 = "mid"; 6 or more = "complex"
+
+# Negation particles (Pharasiot τζο / jο, plus μη / μην / δεν)
+NEGATION_LEMMAS = {"τζο", "jο", "μη", "μην", "δεν"}
 
 
 # ---------------------------------------------------------------------------
@@ -268,8 +271,8 @@ def compute_features(sentence):
         # Count by part of speech
         if upos == "ADP":
             adposition_count += 1
-            # Check for postposed adposition (adp positioned after its head)
-            if head_id > tok_id:
+            # Postposed adposition: it comes after its head (e.g. σ' ον αωπό γνέντα)
+            if 0 < head_id < tok_id:
                 postposed_adposition_count += 1
 
         elif upos == "PROPN":
@@ -281,18 +284,20 @@ def compute_features(sentence):
             if "Person=3" in t["feats"]:
                 pron3_count += 1
 
-        # Negation is usually marked by the "Polarity=Neg" feature
-        if "Polarity=Neg" in t["feats"]:
+        # Negation: the treebank has no Polarity=Neg feature, so we
+        # count the negation particles by lemma
+        if lemma in NEGATION_LEMMAS:
             negation_count += 1
 
-        # Post-verbal subject: is this a subject whose verb head is before it?
+        # Post-verbal subject: a subject that comes after its head
         if t["deprel"] in ("nsubj", "csubj"):
-            if head_id in verb_positions and head_id < tok_id:
+            if 0 < head_id < tok_id:
                 postposed_subject_count += 1
 
-        # Post-verbal object: is this an object whose verb head is before it?
-        if t["deprel"] in ("obj", "iobj", "ccomp"):
-            if head_id in verb_positions and head_id < tok_id:
+        # Post-verbal object/complement: an object (or clausal complement)
+        # that comes after its head
+        if t["deprel"].split(":")[0] in ("obj", "ccomp"):
+            if 0 < head_id < tok_id:
                 postposed_object_count += 1
 
         # Gender mismatch: check if this token's gender disagrees with its head
@@ -301,8 +306,8 @@ def compute_features(sentence):
             head_token = token_by_id[head_id]
             head_gender = get_gender(head_token["feats"])
             if head_gender is not None and head_gender != my_gender:
-                # Only flag if it's a modifier-head relationship
-                if t["deprel"] in ("amod", "det", "nummod"):
+                # Only flag a determiner (article) that disagrees with its noun
+                if t["deprel"] == "det":
                     gender_mismatch_count += 1
 
     # --- Syntactic complexity ---
@@ -311,24 +316,25 @@ def compute_features(sentence):
     # Count subordinate clauses (advcl, ccomp, xcomp, acl, csubj)
     subordinate_count = 0
     for t in tokens:
-        if t["deprel"] in ("advcl", "ccomp", "xcomp", "acl", "csubj"):
+        # split(":") so that subtypes count too (e.g. acl:relcl, advcl:cmp)
+        if t["deprel"].split(":")[0] in ("advcl", "ccomp", "xcomp", "acl", "csubj"):
             subordinate_count += 1
 
     # Count coordinated clauses (conj at the sentence level)
     coordination_count = 0
     for t in tokens:
-        if t["deprel"] == "conj":
+        if t["deprel"].split(":")[0] == "conj":
             coordination_count += 1
 
     # Count relative clauses (acl:relcl)
     relative_clause_count = 0
     for t in tokens:
-        if t["deprel"] == "acl:relcl" or t["deprel"] == "acl":
+        if t["deprel"] == "acl:relcl":
             relative_clause_count += 1
 
-    # Combined complexity score. Weights are simple ints and were chosen
-    # so that no single feature dominates.
-    complexity_score = tree_depth + subordinate_count + coordination_count
+    # Combined complexity score: subordinate clauses count twice, since
+    # embedding is harder for a model than coordination
+    complexity_score = tree_depth + 2 * subordinate_count + coordination_count
 
     # Complexity band
     if complexity_score <= SIMPLE_MAX_SCORE:
@@ -339,20 +345,25 @@ def compute_features(sentence):
         complexity_band = "complex"
 
     # --- Register (direct speech vs. narrative) ---
-    # Sentences with quote marks or exclamation marks tend to be direct speech.
-    # This is a rough heuristic but works well enough for our purposes.
+    # A sentence counts as direct speech if it has quotation marks, or a
+    # verb in the 1st or 2nd person or the imperative, or a vocative.
     is_direct_speech = 0
-    if any(ch in text for ch in ["«", "»", '"', "!"]):
+    if any(ch in text for ch in ["«", "»", '"', "“"]):
         is_direct_speech = 1
+    for t in tokens:
+        feats = t["feats"]
+        if t["upos"] in ("VERB", "AUX") and ("Person=1" in feats or "Person=2" in feats
+                                            or "Mood=Imp" in feats):
+            is_direct_speech = 1
+        if "Case=Voc" in feats:
+            is_direct_speech = 1
     register = "direct" if is_direct_speech else "narrative"
 
     # --- Source of the sentence ---
     # e.g. "Fairytale1.7" -> the source is "Fairytale"
     sent_id = sentence["sent_id"]
-    source = sent_id.rstrip("0123456789.").rstrip(".")
-    # If the sentence ID has a title marker (like "1.0Title"), strip that
-    if source.endswith("Title"):
-        source = source[:-5]
+    # Keep only the leading letters, e.g. "Fairytale3.0(Title)" -> "Fairytale"
+    source = re.match(r"[A-Za-z]*", sent_id).group(0)
 
     return {
         "sent_id": sent_id,
